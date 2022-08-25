@@ -4,6 +4,7 @@ import Nav from '../components/Nav.astro';
 import HomeHeader from '../components/HomeHeader.astro';
 import Card from '../components/Card.astro';
 import Footer from '../components/Footer/Footer.astro'
+import EmailSignup from '../components/Subscribe/EmailSignup.astro'
 
 interface MarkdownFrontmatter {
   date: number;
@@ -42,6 +43,8 @@ const sortedPosts = allPosts.sort((a, b) => new Date(b.frontmatter.pubDate).valu
       See All<span class="squiggle">&rarr;</span>
     </a>
   </section>
+
+  <EmailSignup />
 
   <Footer />
 </body>
