@@ -1,7 +1,7 @@
 ---
 title: "How to efficiently manage a small field sales team"
 pubDate: "2020-01-02"
-slug: "irresistible-offer"
+slug: "field-team"
 description: "Using data and reporting tools to boost sales in a traditionaly oriented
   company."
 hero: "/images/anastasia-dulgier-1155233-unsplash.jpg"
@@ -10,8 +10,6 @@ layout: "../../layouts/BlogPostLayout.astro"
 ---
 
 No matter how small your team is, it will generate valuable data. So even if you manage the sales for the first time, you should firstly look for the numbers. You can quickly have answers to drive you and your team toward solid and repeatable results.
-
-![](/images/anastasia-dulgier-1155233-unsplash.jpg)
 
 ### Understanding the context
 

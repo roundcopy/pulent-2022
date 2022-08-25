@@ -1,15 +1,12 @@
 ---
 title: "Democracy as creativity antidote in video meetings"
 pubDate: "2020-03-03"
-slug: "irresistible-offer"
+slug: "video-meetings"
 description: "Hell is other people on Zoom."
 hero: "/images/markus-spiske-D-QiXQgJxzA-unsplash.jpg"
 tags: ["zoom","meetings", "people"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
-
-
-![](/images/markus-spiske-D-QiXQgJxzA-unsplash.jpg)
 
 One great thing resulting from the COVID-19 situation is that now it is easier than ever to substitute real in-person meetings with virtual ones. Everyone, including their [goat](https://www.theguardian.com/technology/2020/may/21/animal-zoom-calls-coronavirus-lockdown), is on Zoom nowadays. But is it the same, or are we losing something without even realizing it?
 

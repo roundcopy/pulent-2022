@@ -10,8 +10,6 @@ tags: ["jbtd","sales"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
 
-![](/images/david-holifield-J-46sdLKbRY-unsplash.jpg)
-
 Humans are mostly not rational. We are born irrational and with time are trained to be sensible, to build our mental models preparing ourselves for future challenges. We are even considered it offensive when someone calls us irrational. But despite this, I would argue that precisely this irrationality is making us interesting while creating negotiation opportunities.
 
 So why are we always creating offers with mathematical precision? Does it even make sense to invest time in designing an offer without spending at least the same amount of time in understanding our buyer?

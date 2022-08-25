@@ -9,8 +9,6 @@ tags: ["business","innovation", "technology transfer"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
 
-![](/images/gustavo-campos-b87zmorezro-unsplash.jpg)
-
 A decade in technology transfer in a transition country still leaves a lot to be desired, or all to be desired. The only change is that TT is no longer a buzzword which when used in your proposal or during a posh lunch would make you instantly uber-cool. Today we are all getting excited by digital transformation, green transitions and whatnot. Time has passed.
 
 What happened? It probably was a too big bite for the majority. To be honest, it is not an easy job. So why bother after the grant money runs out. Institutions have trouble covering the operational expenses how can they develop the competencies and team needed to do the TT. Also, the lifecycle of any TT opportunity is much longer than typical political cycles. So it is guaranteed that you will be repeating yourself constantly, and without much result. It is much easier to jump on the next keyword and ride it.

@@ -1,15 +1,13 @@
 ---
 title: "Antifragility of universities"
 pubDate: "2020-09-01"
-slug: "irresistible-offer"
+slug: "antifragile-university"
 description: "Antifragility is a challenging concept and it is sometimes hard to grasp
   but can be a useful mental model when thinking about the future of universities."
 hero: "/images/nathan-dumlao-ewGMqs2tmJI-unsplash.jpg"
 tags: ["antifragility","universities", "europe"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
-
-![](/images/nathan-dumlao-ewGMqs2tmJI-unsplash.jpg)
 
 As defined by Nassim Nicholas Taleb, antifragility is a property of a system to not only resist but to thrive in extraordinary circumstances. To thrive in times of hardship. This concept is also connected to the black swan idea as he has coined it in his book of the same name. A black swan is an event that follows three criteria 1. unforeseen, unpredictable event, 2. of great importance, disturbance, 3. tends to be rationalized in hindsight.
 
