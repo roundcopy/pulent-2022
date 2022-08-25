@@ -4,7 +4,7 @@ pubDate: "2020-09-01"
 slug: "antifragile-university"
 description: "Antifragility is a challenging concept and it is sometimes hard to grasp
   but can be a useful mental model when thinking about the future of universities."
-hero: "/images/nathan-dumlao-ewGMqs2tmJI-unsplash.jpg"
+hero: "/images/antifragile.jpeg"
 tags: ["antifragility","universities", "europe"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---

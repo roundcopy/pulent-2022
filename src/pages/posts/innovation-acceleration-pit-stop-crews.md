@@ -4,7 +4,7 @@ pubDate: "2021-12-15"
 slug: "irresistible-offer"
 description: "We need to do our best to increase statistical chances for innovation to
   reach customers. We need to maximise business opportunities. "
-hero: "/images/gustavo-campos-b87zmorezro-unsplash.jpg"
+hero: "/images/pit-stop.jpeg"
 tags: ["business","innovation", "technology transfer"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---

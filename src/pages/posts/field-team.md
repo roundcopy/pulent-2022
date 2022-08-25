@@ -4,7 +4,7 @@ pubDate: "2020-01-02"
 slug: "field-team"
 description: "Using data and reporting tools to boost sales in a traditionaly oriented
   company."
-hero: "/images/anastasia-dulgier-1155233-unsplash.jpg"
+hero: "/images/sales-team.jpeg"
 tags: ["field","sales", "team"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---

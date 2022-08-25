@@ -3,7 +3,7 @@ title: "Democracy as creativity antidote in video meetings"
 pubDate: "2020-03-03"
 slug: "video-meetings"
 description: "Hell is other people on Zoom."
-hero: "/images/markus-spiske-D-QiXQgJxzA-unsplash.jpg"
+hero: "/images/democracy.jpeg"
 tags: ["zoom","meetings", "people"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
