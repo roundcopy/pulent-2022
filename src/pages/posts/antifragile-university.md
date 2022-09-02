@@ -1,6 +1,7 @@
 ---
 title: "Antifragility of universities"
-pubDate: "2020-09-01"
+author: "Nikola Balić"
+date: "2020-09-01"
 slug: "antifragile-university"
 description: "Antifragility is a challenging concept and it is sometimes hard to grasp
   but can be a useful mental model when thinking about the future of universities."
@@ -9,28 +10,70 @@ tags: ["antifragility","universities", "europe"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
 
-As defined by Nassim Nicholas Taleb, antifragility is a property of a system to not only resist but to thrive in extraordinary circumstances. To thrive in times of hardship. This concept is also connected to the black swan idea as he has coined it in his book of the same name. A black swan is an event that follows three criteria 1. unforeseen, unpredictable event, 2. of great importance, disturbance, 3. tends to be rationalized in hindsight.
+As defined by Nassim Nicholas Taleb, antifragility is a property of a system to not only resist but to thrive in extraordinary circumstances. 
 
-Applying and broadening these concepts in the ecosystem of universities and considering it both in local and networked surroundings should be a worthy investment.
+To thrive in times of hardship. 
 
-Universities' landscape is changing every day and is expected to drastically restructure in the following decades. This is even obvious to the EC which has initiated and invested in the European Universities Initiative to overcome the pressures of the global connected world on European universities.
+## Black swan
 
-Considering the massive impact of the internet in recent decades we have seen significant reorientation of leading universities such as MIT, Harvard, and Stanford to online environments. They have heavily invested in developing MOOCs and blended learning programs.
+This is connected to the black swan concept as he has coined it. A black swan is an event that follows three criteria 1. unforeseen, unpredictable event, 2. of great importance, disturbance, and 3. tends to be rationalized in hindsight.
 
-In the time of COVID, this has been more prominent as even the smallest education institutions are now forced to dabble with online tools to deliver learnings that were prepared for in face knowledge transfer resulting in clumsy experiences for students.
+Applying and broadening these ideas in the university ecosystem and considering them both in local and networked surroundings should be a worthy effort.
 
-The same things are happening in research, especially in those fields which are already by their nature digitalized, but also we are seeing more traditional research done almost exclusively remotely such as astrophysics, social sciences, etc.
+## Universities disrupted
 
-Universities are observed through the triangle perspective and it is expected from them to live in three dimensions of education, research, and commercialization or applied research. While recently we are seeing reorientation to include additional dimensions of the environment and society giving them a more relevant context and more long term vision. Transforming the triangle to a prism or a quintuple helix. Universities should be thought of as shapers of the future.
+Universities' landscape is disrupted daily and is expected to drastically restructure in the following decades. 
 
-Making universities more interconnected should make them inherently more antifragile. Making them more responsible should make them more perceptive of their surrounding. But we need also to consider each dimension as a separate system and approach the antifragility in each of the aspects starting with the first mission of education.
+This is clear to the EC, which has initiated and invested in the European Universities Initiative to overcome the pressures of the global connected world on European universities.
 
-Developing blended and hybrid learning environments should provide a wider platform for action and reaction. Making students more involved and interconnected should prove helpful in this sense, making them more responsible.
+Considering the massive impact of the internet in recent decades, we have seen significant reorientation of leading universities such as MIT, Harvard, and Stanford to online environments. They have heavily invested in developing MOOCs and blended learning programs.
 
-Making the research more digitalized and remotized should provide redundancies and options for access and use. Cooperation with the business sector should be robust enough, but we are having significant challenges, and working more intensively in connecting these efforts with education and research inputs and outputs should provide the needed antifragility but at the same time could increase fragility if not managed mindfully.
+In the time of COVID, this has been more prominent as even the most traditional educational institutions were forced to do their best with online tools to deliver learning. Often, this resulted in an inelegant experience for everyone.
 
-Involving society through the engagement of citizens and exposing them to both education and research with life long learning or citizen science, and the third mission with leading them towards more entrepreneurial activities could provide needed interaction which could be a basis for antifragility. The environment is a tough one, but strategically focusing research towards the benefiting environment should at least give as insights in the future.
+## Digitalising research processes
 
-In 2 million EUR Horizon 2020 project just selected for financing and lead by "European university of the seas" alliance, I have designed a work package to tackle the antifragility of universities. Right now I don't have any answers but we are planning to find them or at least to find and ask the right questions. The core activities are to start the antifragility think-tank to work on this in continuity, to explore opportunities for digitalization and remotization especially of research infrastructure, and to consider the environmental footprint of research practices while also working on a system for transferring soft skills between the researches and working on their development and increase of human capital.
+The same things are happening in research, especially in those fields which are already, by their nature, digital. At the same time, we see more traditional research done remotely, such as in astrophysics, social sciences, and others.
 
-Antifragility is a challenging concept and it is sometimes hard to grasp but can be a useful mental model when thinking about the future of universities. Even if we don't approach the antifragility ideal.
+## The quintuple mission of universities
+
+Universities are observed through the triple mission perspective and are expected to live in three dimensions: education, research, and applied research. 
+
+While recently, we have seen a transformation to include additional dimensions of the environment and society, giving them a more relevant context and long-term vision. Transforming the triangle to a pentangle or, adding a time dimension, to a quintuple helix. 
+
+Universities should be active shapers of the future.
+
+Making universities more interconnected should make them inherently more antifragile. Making them more responsible should make them more perceptive of their surrounding. 
+
+## University dimensions
+
+But we also need to consider each dimension as a separate system and approach the antifragility in each aspect, starting with education as the first and oldest mission.
+
+Developing blended and hybrid learning environments should provide a more expansive scaffold for action and reaction. 
+
+Making students more involved and connected. Making students more responsible. Making them owners of their own learning.
+
+Making the research more digitalized and remotized should provide redundancies and options for easier access and use. 
+
+Cooperation with the business sector should be vigorous, but we have significant challenges. Working more intensively in connecting the efforts with education and research should increase the needed antifragility. At the same time, it could also increase fragility if not managed.
+
+Involving broader society through direct engagement. Exposing them to education and research through lifelong learning, citizen science or something else. It could provide needed interactions as a basis for antifragility. 
+
+The environment is demanding, but strategically focusing research on the benefiting environment should give insights into the future.
+
+## reSEArch-EU
+
+In the 2 million EUR Horizon 2020 project led by the "European university of the seas" alliance, I have designed a work package to tackle the antifragility of universities. 
+
+Right now, there are no answers, not even whole questions.
+
+We are planning to outline the right questions and maybe get some answers. The core idea is to institute the Antifragility Think-Tank to work freely and openly on this. 
+
+To explore opportunities for digitalization and remotization, especially of research infrastructure, to consider the environmental footprint of research practices, and to develop a system for transferring soft skills among the researchers.
+
+## Challenging concept to grasp
+
+Antifragility is not a natural way of thinking for us humans.
+
+But it can be a useful mental model for considering the future of universities. 
+
+Even if we don't reach the antifragility ideal.

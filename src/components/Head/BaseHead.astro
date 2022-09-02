@@ -6,7 +6,7 @@ export interface Props {
 title: string;
 description: string;
 }
-const { title, description} = Astro.props;
+const { title, author, description} = Astro.props;
 
 let permalink = 'https://pulent.com';
 ---
@@ -23,6 +23,7 @@ let permalink = 'https://pulent.com';
 <!-- Primary Meta Tags -->
 <title>{title}</title>
 <meta name="title" content={title} />
+<meta name="author" content={author} />
 <meta name="description" content={description} />
 
 <!-- Open Graph / Facebook -->

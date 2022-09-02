@@ -1,6 +1,7 @@
 ---
 title: "How to efficiently manage a small field sales team"
-pubDate: "2020-01-02"
+author: "Nikola Balić"
+date: "2020-01-02"
 slug: "field-team"
 description: "Using data and reporting tools to boost sales in a traditionaly oriented
   company."

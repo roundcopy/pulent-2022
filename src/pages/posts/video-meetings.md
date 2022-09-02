@@ -1,6 +1,7 @@
 ---
 title: "Democracy as creativity antidote in video meetings"
-pubDate: "2020-03-03"
+author: "Nikola Balić"
+date: "2020-03-03"
 slug: "video-meetings"
 description: "Hell is other people on Zoom."
 hero: "/images/democracy.jpeg"

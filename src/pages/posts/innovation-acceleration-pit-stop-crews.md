@@ -1,6 +1,7 @@
 ---
 title: "Innovation acceleration pit stop crews"
-pubDate: "2021-12-15"
+author: "Nikola Balić"
+date: "2021-12-15"
 slug: "irresistible-offer"
 description: "We need to do our best to increase statistical chances for innovation to
   reach customers. We need to maximise business opportunities. "

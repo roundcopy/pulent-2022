@@ -1,6 +1,7 @@
 ---
 title: "How to tailor an irresistible offer"
-pubDate: "2020-05-11"
+author: "Nikola Balić"
+date: "2020-05-11"
 slug: "irresistible-offer"
 description: "Creating a perfect offer is not always simply about function—understanding
   your customers goes a long way helping you to optimise your offer for the benefit
