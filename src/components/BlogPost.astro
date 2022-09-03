@@ -28,12 +28,16 @@ const { title, date, hero, youtube, author } = Astro.props;
   <!-- Content -->
   <section class="max-w-3xl mx-auto py-6 lg:py-12 content">
     <slot />
-    <div class="flex items-center">
-      <img class="w-12 h-12 rounded-full mr-4" src="/images/nikola_avatar_128.jpeg" alt="Avatar of Nikola Balić">
+     <!-- Author -->
+    <div class="flex items-center" itemprop="author" itemtype="https://schema.org/Person" itemscope="">
+      <figure><picture>
+        <a href="https://www.linkedin.com/in/nikolabalic/" target="_blank"><img class="w-12 h-12 rounded-full mr-4" src="/images/nikola_avatar_128.jpeg" alt="Nikola Balić" loading="lazy" itemprop="image"></a>
+      </picture></figure>
       <div class="text-sm">
         <p class="text-gray-900 leading-none">
-        <span class="author vcard" itemprop="author" itemtype="https://schema.org/Person" itemscope>{author}</span></p>
-        <p class="text-gray-600">{date}</p>
+        by <span itemprop="name" itemscope>{author}</span></p>  
+        <time class="updated" datetime={date}></time>
+        <p class="text-gray-600">updated: {date}</p>
       </div>
     </div>
   </section>
