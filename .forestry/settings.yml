@@ -9,7 +9,7 @@ sections:
   label: pages
   create: documents
   match: "**/*"
-  new_doc_ext: ".astro"
+  new_doc_ext: astro
 - type: directory
   path: src/pages/posts
   label: posts
