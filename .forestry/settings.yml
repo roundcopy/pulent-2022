@@ -8,7 +8,7 @@ sections:
   path: src/pages
   label: pages
   create: all
-  match: "**/*.astro"
+  match: "**/*"
   new_doc_ext: astro
 - type: directory
   path: src/pages/posts
