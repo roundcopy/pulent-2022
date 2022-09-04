@@ -6,24 +6,27 @@ fields:
   name: title
   label: title
 - type: text
-  name: author
-  label: author
-- type: datetime
-  name: date
-  label: date
-- type: text
   name: slug
   label: slug
+- type: list
+  name: tags
+  label: tags
 - type: textarea
   name: description
   label: description
 - type: file
   name: hero
   label: hero
-- type: list
-  name: tags
-  label: tags
+- type: datetime
+  name: date
+  label: date
+  default: now
+- type: text
+  name: author
+  label: author
+  default: Nikola Balić
 - type: text
   name: layout
   label: layout
   default: "../../layouts/BlogPostLayout.astro"
+  hidden: true
