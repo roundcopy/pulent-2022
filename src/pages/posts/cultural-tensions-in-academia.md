@@ -24,4 +24,6 @@ Strong homogenous culture is more efficient. But it brings out fragilities while
 
 Culture is a trade-off.
 
-Homogenous vs heterogeneous culture is a tension. A choice worth debating and challenging.
+Homogenous vs heterogeneous culture is a tension. 
+
+A choice worth debating and challenging.
