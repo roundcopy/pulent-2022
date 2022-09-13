@@ -30,3 +30,5 @@ fields:
   label: layout
   default: "../../layouts/BlogPostLayout.astro"
   hidden: true
+pages:
+- src/pages/posts/cultural-tensions-in-academia.md
