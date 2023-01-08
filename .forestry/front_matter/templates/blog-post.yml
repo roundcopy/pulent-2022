@@ -31,4 +31,5 @@ fields:
   default: "../../layouts/BlogPostLayout.astro"
   hidden: true
 pages:
+- src/pages/posts/balancing-homogeneity-and-heterogeneity-in-organizational-culture.md
 - src/pages/posts/cultural-tensions-in-academia.md
