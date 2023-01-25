@@ -1,0 +1,133 @@
+---
+import BaseHead from '../components/Head/BaseHead.astro';
+import Nav from '../components/Nav.astro';
+import HomeHeader from '../components/HomeHeader.astro';
+import Card from '../components/Card.astro';
+import Footer from '../components/Footer/Footer.astro';
+import EmailSignup from '../components/Subscribe/EmailSignup.astro';
+
+interface MarkdownFrontmatter {
+  date: number;
+}
+
+const title = 'Nikola Now';
+const description = 'What I’m doing now';
+const seoDescription = 'Nikola Balic, What I’m doing now';
+
+---
+
+<html lang="en">
+
+<head>
+  <BaseHead title={title} description={seoDescription} />
+</head>
+
+<body class="bg-white text-black font-body leading-normal personality-casual">
+  <Nav />
+
+  <main class="py-12 lg:py-20">
+
+<!-- component -->
+        <div class="p-8">
+            <div class="bg-white p-4 rounded-lg py-8 mt-12">
+                <h4 class="text-4xl font-bold text-gray-800 tracking-widest uppercase text-center">What I’m doing now</h4>
+                <p class="text-center text-gray-600 text-sm mt-2">This is <a href="https://nownownow.com/about">a now page</a>, and if you have your own site, <a href="https://nownownow.com/about">you should make one</a>, too.</p>
+                <p class="text-center text-gray-600 text-sm mt-2">Updated on Thu 26th of January 2023, from my home in Split, Croatia.</p>
+        
+                <div class="space-y-12 px-2 xl:px-16 mt-12">
+                    <div class="mt-4 flex">
+                        <div>
+                            <div class="flex items-center h-16 border-l-4 border-gray-600">
+                                <span class="text-4xl text-gray-600 px-4">Q.</span>
+                            </div>
+                            <div class="flex items-center h-16 border-l-4 border-gray-400">
+                                <span class="text-4xl text-gray-400 px-4">A.</span>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="flex items-center h-16">
+                                <span class="text-lg text-gray-600 font-bold">Why am I doing a PhD on Digital Transformation?</span>
+                            </div>
+                            <div class="flex items-center py-2">
+                                <span class="text-gray-500">
+                                Honestly, no idea. I am too old for this. But it sounded great at one point. I am currently enrolled in a second year of my PhD at the University of Split.
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="mt-4 flex">
+                        <div>
+                            <div class="flex items-center h-16 border-l-4 border-gray-600">
+                                <span class="text-4xl text-gray-600 px-4">Q.</span>
+                            </div>
+                            <div class="flex items-center h-16 border-l-4 border-gray-400">
+                                <span class="text-4xl text-gray-400 px-4">A.</span>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="flex items-center h-16">
+                                <span class="text-lg text-gray-600 font-bold">What I am currently reading?</span>
+                            </div>
+                            <div class="flex items-center py-2">
+                                <span class="text-gray-500">
+                                I am currently reading the book series "Dust" written by Hugh Howey. It's set in a post-apocalyptic world where people live in underground silos to escape the harsh surface world. The story follows the lives of the inhabitants and their struggles to survive and thrive.
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="mt-4 flex">
+                        <div>
+                            <div class="flex items-center h-16 border-l-4 border-gray-600">
+                                <span class="text-4xl text-gray-600 px-4">Q.</span>
+                            </div>
+                            <div class="flex items-center h-16 border-l-4 border-gray-400">
+                                <span class="text-4xl text-gray-400 px-4">A.</span>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="flex items-center h-16">
+                                <span class="text-lg text-gray-600 font-bold">What am I currently engaged in?</span>
+                            </div>
+                            <div class="flex items-center py-2">
+                                <span class="text-gray-500">
+                                I am currently doing secret consultancy work for the World Bank. I am unable to disclose the specific areas or projects I am working on, as it is confidential. 🤐
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="mt-4 flex">
+                        <div>
+                            <div class="flex items-center h-16 border-l-4 border-gray-600">
+                                <span class="text-4xl text-gray-600 px-4">Q.</span>
+                            </div>
+                            <div class="flex items-center h-16 border-l-4 border-gray-400">
+                                <span class="text-4xl text-gray-400 px-4">A.</span>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="flex items-center h-16">
+                                <span class="text-lg text-gray-600 font-bold">What am I eagerly awaiting?</span>
+                            </div>
+                            <div class="flex items-center py-2">
+                                <span class="text-gray-500">
+                                I am eagerly awaiting the opportunity to be an assistant lecturer in the new Data Science program at the Faculty of Natural Science, specifically in the course on Network Analysis, starting from the next semester.
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
+        </div>
+
+  </main>
+
+  <EmailSignup />
+  <Footer />
+</body>
+
+</html>

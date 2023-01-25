@@ -10,12 +10,12 @@ interface MarkdownFrontmatter {
   date: number;
 }
 
-const title = 'Pulent';
-const description = 'Nurturing growth while fighting perfectionism';
-const seoDescription = 'Nurturing growth while fighting perfectionism';
+const title = 'Rebooted for Growth';
+const description = 'Unleash business opportunities by embracing progress instead of perfectionism.';
+const seoDescription = 'Unleash business opportunities by embracing progress instead of perfectionism.';
 
 const allPosts = await Astro.glob<MarkdownFrontmatter>('./posts/*.md');
-const sortedPosts = allPosts.sort((a, b) => new Date(b.frontmatter.pubDate).valueOf() - new Date(a.frontmatter.pubDate).valueOf());
+const sortedPosts = allPosts.sort((a, b) => new Date(b.frontmatter.date).valueOf() - new Date(a.frontmatter.date).valueOf());
 ---
 
 <html lang="en">
@@ -38,14 +38,15 @@ const sortedPosts = allPosts.sort((a, b) => new Date(b.frontmatter.pubDate).valu
     </article>
   </main>
 
+<!--
   <section class="flex space-x-8 justify-center text-xl pt-8 font-bold">
     <a href="/posts" class="mr-8" data-test="see-all-link">
       See All<span class="">&rarr;</span>
     </a>
   </section>
+-->
 
   <EmailSignup />
-
   <Footer />
 </body>
 
