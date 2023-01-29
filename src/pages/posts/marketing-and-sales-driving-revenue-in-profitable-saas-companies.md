@@ -2,7 +2,7 @@
 date: 2023-01-29T23:08:57+01:00
 author: Nikola Balić
 layout: "../../layouts/BlogPostLayout.astro"
-title: 'Marketing and Sales: Driving Revenue in Profitable SaaS Companies'
+title: 'Marketing and Sales: Driving Revenue in Profitable SaaS Companies in 2023'
 slug: reaching-your-audience-ideal-customer-marketing-sales-strategy
 tags:
 - Content marketing
