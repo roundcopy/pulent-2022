@@ -15,6 +15,7 @@ hero: "/images/jackyruyi_backpackeraction_hubtravel_planningjungle_adventurega_5
 
 ---
 ## Table of Contents
+
 1. [Define your goals](#define-your-goals)
 2. [Outline specific steps](#outline-specific-steps)
 3. [Assign responsibility](#assign-responsibility)
@@ -25,27 +26,32 @@ As a SaaS entrepreneur, you’ve likely spent a lot of time researching your mar
 
 ## Here’s how to get started
 
-<a href="#define-your-goals">
+<a href="#define-your-goals"></a>
+
 ### 1. Define your goals
 
 Before you can create a plan, you need to know what you’re working towards. What are your top priorities for the next six months, year, or five years? Write down specific, measurable goals that align with your overall vision and strategy.
 
-<a href="#outline-specific-steps">
+<a href="#outline-specific-steps"></a>
+
 ### 2. Outline specific steps
 
 Once you have your goals in mind, it’s time to outline the specific steps you’ll take to achieve them. For example, if your goal is to increase user adoption, your steps might include launching a referral program, partnering with complementary companies, and hosting webinars to educate users.
 
-<a href="#assign-responsibility">
+<a href="#assign-responsibility"></a>
+
 ### 3. Assign responsibility
 
 Assign a team member or team members to each step. This will ensure that everyone knows who is responsible for what and when, and helps keep the plan on track.
-  
-<a href="#set-a-timeline">
+
+<a href="#set-a-timeline"></a>
+
 ### 4. Set a timeline
 
 Set a timeline for each step, including start and end dates. This will give your team a sense of urgency and help ensure that everyone is moving forward at the same pace.
-  
-<a href="#stay-accountable">
+
+<a href="#stay-accountable"></a>
+
 ### 5. Stay accountable
 
 Finally, it’s critical to stay accountable to your plan. Regularly review your progress, celebrate your successes, and make changes as needed. This will keep your team focused and motivated, and help you achieve your goals more quickly.
