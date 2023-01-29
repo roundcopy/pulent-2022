@@ -2,7 +2,8 @@
 date: 2023-01-29T23:09:18+01:00
 author: Nikola Balić
 layout: "../../layouts/BlogPostLayout.astro"
-title: 'Continuous Improvement and Innovation: Staying Ahead in Profitable SaaS Companies'
+title: 'Continuous Improvement and Innovation: Staying Ahead in Profitable SaaS Companies
+  in 2023'
 slug: saas-continuous-improvement-innovation
 tags:
 - Measuring Progress
