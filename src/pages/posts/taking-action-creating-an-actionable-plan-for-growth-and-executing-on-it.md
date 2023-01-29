@@ -23,7 +23,7 @@ hero: "/images/jackyruyi_backpackeraction_hubtravel_planningjungle_adventurega_5
 
 As a SaaS entrepreneur, you’ve likely spent a lot of time researching your market, developing a monetization strategy, and defining your company’s vision. But without taking action, all of that hard work will be for naught. That’s why it’s critical to create an actionable plan for growth that outlines the specific steps you’ll take to achieve your goals and drive profitability.
 
-## Here’s how to get started:
+## Here’s how to get started
 
 <a href="#define-your-goals">
 ### 1. Define your goals
