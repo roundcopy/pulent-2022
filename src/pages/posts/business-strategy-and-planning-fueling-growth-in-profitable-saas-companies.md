@@ -2,7 +2,8 @@
 date: 2023-01-29T23:06:52+01:00
 author: Nikola Balić
 layout: "../../layouts/BlogPostLayout.astro"
-title: 'Business Strategy and Planning: Fueling Growth in Profitable SaaS Companies'
+title: 'Business Strategy and Planning in 2023: Fueling Growth in Profitable SaaS
+  Companies'
 slug: successful-saas-strategy-key-elements-and-action-plan
 tags:
 - Vision
