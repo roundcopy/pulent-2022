@@ -2,7 +2,8 @@
 date: 2023-01-29T23:08:20+01:00
 author: Nikola Balić
 layout: "../../layouts/BlogPostLayout.astro"
-title: 'Customer Discovery and Validation: Delivering Value to Profitable SaaS Companies'
+title: 'Customer Discovery and Validation in 2023: Delivering Value to Profitable
+  SaaS Companies'
 slug: customer-discovery-validation-saas-companies-success
 tags:
 - Knowing Your Customers
