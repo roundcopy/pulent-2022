@@ -22,7 +22,7 @@ export default defineConfig({
                     delete: true,
                     fields: [
                       { name: 'title', widget: 'string', label: 'Post Title' },
-                      { name: 'core_topic', widget: 'boolean', label: 'Core Topic', default: false },
+                      { name: 'core_topic', widget: 'boolean', label: 'Core Topic', default: false, required: false },
                       { name: 'slug', widget: 'string', label: 'Slug', default: false },
                       { name: 'tags', widget: 'list', label: 'Tags', default: false },
                       { name: 'description', widget: 'string', label: 'Description', required: false },
