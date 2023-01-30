@@ -1,6 +1,6 @@
 ---
 title: Balancing Homogeneity and Heterogeneity in Organizational Culture
-core_topic: true
+core_topic: false
 slug: org-culture
 tags:
   - culture
