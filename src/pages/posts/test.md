@@ -5,7 +5,7 @@ slug: test2
 tags: false
 description: dsf
 hero: false
-date: 30 Jan 2023
+date: 2023-01-04T00:00:00+01:00
 author: Nikola Balic
 layout: ../../layouts/BlogPostLayout.astro
 ---
