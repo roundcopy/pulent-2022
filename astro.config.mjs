@@ -26,7 +26,7 @@ export default defineConfig({
                       { name: 'slug', widget: 'string', label: 'Slug', default: false },
                       { name: 'tags', widget: 'list', label: 'Tags', default: false },
                       { name: 'description', widget: 'string', label: 'Description', required: false },
-                      { name: 'hero', widget: 'image', choose_url: true, media_folder: 'public/images', label: 'Hero Image', default: false },
+                      { name: 'hero', widget: 'image', choose_url: true, media_folder: '/public/images', label: 'Hero Image', default: false },
                       {
                         name: 'date',
                         widget: 'datetime',
