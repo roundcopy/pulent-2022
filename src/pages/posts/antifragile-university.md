@@ -1,6 +1,6 @@
 ---
 title: Antifragility of universities
-core_topic: true
+core_topic: false
 slug: antifragile-university
 tags:
   - antifragility
