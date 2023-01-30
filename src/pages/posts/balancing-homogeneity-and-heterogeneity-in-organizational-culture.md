@@ -1,14 +1,18 @@
 ---
-date: 2023-01-09T00:26:00+01:00
-author: Nikola Balić
-layout: "../../layouts/BlogPostLayout.astro"
 title: Balancing Homogeneity and Heterogeneity in Organizational Culture
+core_topic: true
 slug: org-culture
 tags:
-- culture
-description: ''
-hero: "/images/org-culture.jpg"
-
+  - culture
+description: Find the balance between cultural homogeneity and heterogeneity in
+  your organization. Learn the benefits and challenges of each approach,
+  discover your organization's core values, and reconcile trade-offs to build a
+  strong and effective culture. Striving for diversity and inclusivity while
+  keeping clear expectations and cohesiveness leads to success.
+hero: /images/org-culture.jpg
+date: 2023-01-09T00:26:00+01:00
+author: Nikola Balić
+layout: ../../layouts/BlogPostLayout.astro
 ---
 Cultural homogeneity is a shared set of values, attitudes, and behaviours within a group or organization.
 
