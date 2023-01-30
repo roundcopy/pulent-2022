@@ -9,7 +9,7 @@ export default defineConfig({
             config: {
               backend: {
                 name: 'git-gateway',
-                branch: 'main',
+                branch: 'pulent-2022',
               },
               collections: [
                 {
