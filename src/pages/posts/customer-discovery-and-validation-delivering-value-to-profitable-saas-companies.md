@@ -1,5 +1,5 @@
 ---
-date: 2023-01-29T23:08:20+01:00
+date: 2023-01-29T23:08:20.000+01:00
 author: Nikola Balić
 layout: "../../layouts/BlogPostLayout.astro"
 title: 'Customer Discovery and Validation in 2023: Delivering Value to Profitable
@@ -14,6 +14,7 @@ description: Discover how customer discovery and validation can drive success in
   companies. Learn the steps to understanding target audience, gathering insights,
   identifying opportunities, testing theories, and mapping the customer journey.
 hero: "/images/dialgo_culture_and_art_field_relaxed_7068e774-ceb0-406d-969b-8a0a8a44c255.jpg"
+core_topic: true
 
 ---
 The success of a SaaS company depends on delivering value to its customers. Customer discovery and validation is a crucial process in ensuring that the company is meeting the needs of its target audience and delivering real value. This process involves understanding the target audience, gathering insights, identifying opportunities, testing theories, and mapping the customer journey. By following these steps, SaaS companies can increase customer satisfaction and drive profitability.
