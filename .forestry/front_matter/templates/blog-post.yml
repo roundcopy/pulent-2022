@@ -32,4 +32,9 @@ fields:
   hidden: true
 pages:
 - src/pages/posts/balancing-homogeneity-and-heterogeneity-in-organizational-culture.md
+- src/pages/posts/business-strategy-and-planning-fueling-growth-in-profitable-saas-companies.md
+- src/pages/posts/continuous-improvement-and-innovation-staying-ahead-in-profitable-saas-companies.md
 - src/pages/posts/cultural-tensions-in-academia.md
+- src/pages/posts/customer-discovery-and-validation-delivering-value-to-profitable-saas-companies.md
+- src/pages/posts/marketing-and-sales-driving-revenue-in-profitable-saas-companies.md
+- src/pages/posts/taking-action-creating-an-actionable-plan-for-growth-and-executing-on-it.md
