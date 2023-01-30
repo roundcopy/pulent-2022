@@ -9,7 +9,8 @@ export default defineConfig({
             config: {
               backend: {
                 name: 'git-gateway',
-                branch: 'roundcopy/pulent-2022',
+                repo: 'roundcopy/pulent-2022',
+                branch: 'master',
               },
               collections: [
                 {
