@@ -5,6 +5,10 @@ fields:
 - type: text
   name: title
   label: title
+- name: core
+  type: boolean
+  label: core
+  default: false
 - type: text
   name: slug
   label: slug
@@ -30,10 +34,6 @@ fields:
   label: layout
   default: "../../layouts/BlogPostLayout.astro"
   hidden: true
-- name: core
-  type: boolean
-  label: core
-  default: false
 pages:
 - src/pages/posts/balancing-homogeneity-and-heterogeneity-in-organizational-culture.md
 - src/pages/posts/business-strategy-and-planning-fueling-growth-in-profitable-saas-companies.md
