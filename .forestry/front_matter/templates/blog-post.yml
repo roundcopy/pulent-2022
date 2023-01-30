@@ -5,9 +5,9 @@ fields:
 - type: text
   name: title
   label: title
-- name: core
+- name: core_topic
   type: boolean
-  label: core
+  label: core topic
   default: false
 - type: text
   name: slug
