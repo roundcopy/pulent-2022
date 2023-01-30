@@ -1,5 +1,5 @@
 ---
-title: test
+title: test2
 core_topic: false
 slug: test2
 tags: false
