@@ -1,13 +1,18 @@
 ---
-title: "Antifragility of universities"
-author: "Nikola Balić"
-date: "2020-09-01"
-slug: "antifragile-university"
-description: "Antifragility is a challenging concept and it is sometimes hard to grasp
-  but can be a useful mental model when thinking about the future of universities."
-hero: "/images/antifragile.jpeg"
-tags: ["antifragility","universities", "europe"]
-layout: "../../layouts/BlogPostLayout.astro"
+title: Antifragility of universities
+core_topic: true
+slug: antifragile-university
+tags:
+  - antifragility
+  - universities
+  - europe
+description: Antifragility is a challenging concept and it is sometimes hard to
+  grasp but can be a useful mental model when thinking about the future of
+  universities.
+hero: /images/antifragile.jpeg
+date: 2020-09-01
+author: Nikola Balić
+layout: ../../layouts/BlogPostLayout.astro
 ---
 
 As defined by Nassim Nicholas Taleb, antifragility is a property of a system to not only resist but to thrive in extraordinary circumstances. 
