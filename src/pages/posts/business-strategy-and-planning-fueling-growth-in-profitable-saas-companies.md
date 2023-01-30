@@ -1,6 +1,7 @@
 ---
 date: 2023-01-29T23:06:52+01:00
 author: Nikola Balić
+core: true
 layout: "../../layouts/BlogPostLayout.astro"
 title: 'Business Strategy and Planning in 2023: Fueling Growth in Profitable SaaS
   Companies'
