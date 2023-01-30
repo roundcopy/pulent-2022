@@ -7,6 +7,6 @@ description: dsf
 hero: false
 date: 30 Jan 2023
 author: Nikola Balic
-layout: ../../layouts/BlogPosLayout.astro
+layout: ../../layouts/BlogPostLayout.astro
 ---
 sdf
