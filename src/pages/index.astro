@@ -11,11 +11,14 @@ interface MarkdownFrontmatter {
 }
 
 const title = 'Rebooted for Growth';
-const description = 'Unleash business opportunities by embracing progress instead of perfectionism.';
-const seoDescription = 'Unleash business opportunities by embracing progress instead of perfectionism.';
+const description = 'Find your voice in the market and unleash the power of your unique value proposition.';
+const seoDescription = 'Find your voice in the market and unleash the power of your unique value proposition.';
 
 const allPosts = await Astro.glob<MarkdownFrontmatter>('./posts/*.md');
 const sortedPosts = allPosts.sort((a, b) => new Date(b.frontmatter.date).valueOf() - new Date(a.frontmatter.date).valueOf());
+const corePosts = sortedPosts.filter(post => post.frontmatter.core_topic)
+const nonCorePosts = sortedPosts.filter(post => !post.frontmatter.core_topic)
+
 ---
 
 <html lang="en">
@@ -31,7 +34,13 @@ const sortedPosts = allPosts.sort((a, b) => new Date(b.frontmatter.date).valueOf
     <article class="max-w-6xl mx-auto px-3">
       <HomeHeader title={title} description={description} />
       <section class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 py-8" data-test="articles-section">
-        {sortedPosts.map(p => <div class="col-span-1">
+        {corePosts.map(p => <div class="col-span-1">
+          <Card post={p} />
+        </div>)}
+      </section>
+      <h2>All Articles</h2>
+      <section class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 py-8" data-test="articles-section">
+        {nonCorePosts.map(p => <div class="col-span-1">
           <Card post={p} />
         </div>)}
       </section>
