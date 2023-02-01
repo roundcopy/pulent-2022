@@ -11,7 +11,7 @@ tags:
 description: Discover the importance of understanding your customers and target
   audience in the SaaS industry. Learn how to use the Customer Value Proposition
   Canvas to align your product with customer needs and drive success.
-hero: images/astronaut.jpg
+hero: /images/astronaut.jpg
 date: 2023-02-01T20:24:48+01:00
 author: Nikola Balić
 layout: ../../layouts/BlogPostLayout.astro
