@@ -2,7 +2,12 @@
 title: "Understanding Your Customers: A Guide for SaaS Companies"
 core_topic: false
 slug: knowing-your-customers-understanding-target-audience-problems-customer-value-proposition-canvas
-tags: false
+tags:
+  - Customer understanding
+  - Target audience
+  - SaaS industry
+  - Customer Value Proposition Canvas
+  - Customer problems and needs
 description: Discover the importance of understanding your customers and target
   audience in the SaaS industry. Learn how to use the Customer Value Proposition
   Canvas to align your product with customer needs and drive success.
