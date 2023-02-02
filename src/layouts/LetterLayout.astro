@@ -5,17 +5,17 @@ import LetterFull from '../components/LetterFull.astro';
 import EmailSignup from '../components/Subscribe/EmailSignup.astro'
 
 const {content} = Astro.props;
-const {title, description, date, author} = content;
+const {title, description, number, date, author} = content;
 ---
 <html lang={ content.lang || 'en' }>
   <head>
-    <BaseHead title={title} author={author} description={description} />
+    <BaseHead title={title} number={number} author={author} description={description} />
   </head>
 
   <body>
     <Nav />
     <main class="py-12 lg:py-20">
-      <LetterFull title={title} date={date} author={author} >
+      <LetterFull title={title} number={number} date={date} author={author} >
         <slot />
       </LetterFull>
       <EmailSignup />
