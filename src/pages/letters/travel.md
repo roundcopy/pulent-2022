@@ -1,5 +1,6 @@
 ---
 title: Traveling is one of life's greatest adventures
+number: 7
 slug: travel
 description:
 date: 2023-02-01T20:57:54+01:00
