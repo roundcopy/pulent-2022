@@ -8,5 +8,5 @@ Think of it this way, every language you learn is like a tool in your toolbox, a
 
 So my advice to you, my dear sons, is to embrace this opportunity and start learning a new language today. The world is your oyster, and the only limit is your imagination.
 
-Yours sincerely,
+Love,
 Dad
