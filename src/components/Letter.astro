@@ -1,0 +1,33 @@
+---
+export interface Props {
+  title: string;
+  date: string;
+  author: string;
+}
+
+const { title, date, author } = Astro.props;
+---
+
+<article class="max-w-5xl mx-auto px-3">
+  <header class="mx-auto max-w-3xl text-center content">
+    <h1>{title}</h1>
+  </header>
+
+  <!-- Content -->
+  <section class="max-w-3xl mx-auto py-6 lg:py-12 content">
+    <slot />
+     <!-- Author -->
+    <div class="flex items-center" itemprop="author" itemtype="https://schema.org/Person" itemscope="">
+      <figure><picture>
+        <a href="https://www.linkedin.com/in/nikolabalic/" target="_blank"><img class="w-12 h-12 rounded-full mr-4" src="/images/nikola_avatar_128.jpeg" alt="Nikola Balić" loading="lazy" itemprop="image"></a>
+      </picture></figure>
+      <div class="text-sm">
+        <p class="text-gray-900 leading-none">
+        by <span itemprop="name" itemscope>{author}</span></p>  
+        <time class="updated" datetime={date}></time>
+        <p class="text-gray-600">updated: {date}</p>
+      </div>
+    </div>
+  </section>
+
+</article>

@@ -1,3 +1,12 @@
+---
+title: The Power of Learning and Doing
+slug: learning
+description:
+date: 2023-02-01T20:57:54+01:00
+author: Nikola Balić
+layout: ../../layouts/LetterLayout.astro
+---
+
 My beloved sons,
 
 Learning is a superpower. The more you know, the more equipped you are to tackle the challenges that life throws your way. But remember, action beats absolute knowledge. You can have all the knowledge in the world, but if you don't put it into action, it's worthless.

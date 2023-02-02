@@ -1,3 +1,12 @@
+---
+title: Commit
+slug: commit
+description:
+date: 2023-02-01T20:57:54+01:00
+author: Nikola Balić
+layout: ../../layouts/LetterLayout.astro
+---
+
 My dear sons,
 
 In life, you'll be faced with many decisions and choices. It's important to understand that either you are doing something, or you're not. There's no middle ground, no in-between.
