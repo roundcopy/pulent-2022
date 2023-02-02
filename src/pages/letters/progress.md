@@ -1,3 +1,12 @@
+---
+title: Leave Perfection Behind
+slug: progress
+description:
+date: 2023-02-01T20:57:54+01:00
+author: Nikola Balić
+layout: ../../layouts/LetterLayout.astro
+---
+
 My dear sons,
 
 Progress always beats perfection. Don't let the fear of not being perfect hold you back from making progress. It's important to have high standards and strive for excellence, but remember, progress is more important than being perfect.
