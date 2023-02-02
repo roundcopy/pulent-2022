@@ -1,11 +1,11 @@
 ---
 import Nav from '../components/Nav.astro';
 import BaseHead from '../components/Head/BaseHead.astro';
-import Letter from '../components/Letter.astro';
+import LetterFull from '../components/LetterFull.astro';
 import EmailSignup from '../components/Subscribe/EmailSignup.astro'
 
 const {content} = Astro.props;
-const {title, description, date, hero, youtube, author} = content;
+const {title, description, date, author} = content;
 ---
 <html lang={ content.lang || 'en' }>
   <head>
@@ -15,9 +15,9 @@ const {title, description, date, hero, youtube, author} = content;
   <body>
     <Nav />
     <main class="py-12 lg:py-20">
-      <Letter title={title} date={date} author={author} >
+      <LetterFull title={title} date={date} author={author} >
         <slot />
-      </Letter>
+      </LetterFull>
       <EmailSignup />
     </main>
   </body>
