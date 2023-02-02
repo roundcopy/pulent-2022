@@ -1,5 +1,6 @@
 ---
 title: Create Your Own Luck
+number: 6
 slug: luck
 description:
 date: 2023-02-01T20:57:54+01:00
