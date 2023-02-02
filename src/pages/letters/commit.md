@@ -1,5 +1,5 @@
 ---
-title: Commit
+title: Commit to Giving Your All
 slug: commit
 description:
 date: 2023-02-01T20:57:54+01:00
