@@ -1,5 +1,6 @@
 ---
 title: The Power of Learning and Doing
+number: 5
 slug: learning
 description:
 date: 2023-02-01T20:57:54+01:00
