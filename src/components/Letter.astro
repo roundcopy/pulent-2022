@@ -1,5 +1,4 @@
 ---
-import dayjs from 'dayjs'
 
 export interface Props {
   letter: any;
@@ -17,7 +16,7 @@ const { letter } = Astro.props;
       {letter.frontmatter.title}
     </h2>
     <p class="text-xs text-gray-600 mt-4 flex items-center">
-      {dayjs(letter.frontmatter.date).format('DD-MM-YYYY')}
+      {letter.frontmatter.number}
     </p>
   </div>
 </a>

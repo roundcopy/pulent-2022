@@ -1,5 +1,6 @@
 ---
 title: Leave Perfection Behind
+number: 3
 slug: progress
 description:
 date: 2023-02-01T20:57:54+01:00
