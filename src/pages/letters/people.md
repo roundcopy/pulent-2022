@@ -1,3 +1,12 @@
+---
+title: Commitment Leads to Success
+slug: people
+description:
+date: 2023-02-01T20:57:54+01:00
+author: Nikola Balić
+layout: ../../layouts/LetterLayout.astro
+---
+
 My dearest sons,
 
 Meeting new people is like discovering new spices in life. They bring variety and flavor, and make our experiences more enjoyable. Don't be afraid to step out of your comfort zone and approach them with an open mind and heart.

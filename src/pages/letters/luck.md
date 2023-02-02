@@ -1,3 +1,11 @@
+---
+title: Create Your Own Luck
+slug: luck
+description:
+date: 2023-02-01T20:57:54+01:00
+author: Nikola Balić
+layout: ../../layouts/LetterLayout.astro
+---
 Dear Sons,
 
 Luck is not just something that happens to you, it's something you create. The more open and present you are, the more opportunities you'll be able to recognize and take advantage of.

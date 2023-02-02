@@ -1,3 +1,12 @@
+---
+title: Traveling is one of life's greatest adventures
+slug: travel
+description:
+date: 2023-02-01T20:57:54+01:00
+author: Nikola Balić
+layout: ../../layouts/LetterLayout.astro
+---
+
 My beloved sons,
 
 Traveling is one of life's greatest adventures and the best experiences are often found in the most surprising of destinations. When you step out of your comfort zone and explore new places, you'll find that you grow as a person in the process.

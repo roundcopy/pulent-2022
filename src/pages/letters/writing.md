@@ -1,3 +1,12 @@
+---
+title: Writing brings clarity
+slug: writing
+description:
+date: 2023-02-01T20:57:54+01:00
+author: Nikola Balić
+layout: ../../layouts/LetterLayout.astro
+---
+
 My dear sons,
 
 Writing has the power to bring clarity to your thoughts and ideas. It's a thinking tool that will help you organize your thoughts, find solutions to problems, and express your creativity.
