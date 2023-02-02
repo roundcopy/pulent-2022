@@ -10,5 +10,5 @@ So go ahead and meet new people, listen to their stories, and learn from their e
 
 Stay strong and be brave, my sons. And remember, relationships are the sauce that make life delicious.
 
-Yours truly,
+Love,
 Dad. 
