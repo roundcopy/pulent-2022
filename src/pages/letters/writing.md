@@ -1,5 +1,6 @@
 ---
 title: Writing brings clarity
+number: 8
 slug: writing
 description:
 date: 2023-02-01T20:57:54+01:00
