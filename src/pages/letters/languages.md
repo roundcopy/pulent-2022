@@ -1,3 +1,12 @@
+---
+title: Supercharge Your Future With Languages
+slug: languages
+description:
+date: 2023-02-01T20:57:54+01:00
+author: Nikola Balić
+layout: ../../layouts/LetterLayout.astro
+---
+
 My dear sons,
 
 Learning languages is like having a superpower in life. The earlier you start, the more fluent you become. Don't just stop at one, aim to learn as many as you can. It's like having multiple keys to unlock different doors of opportunities.
