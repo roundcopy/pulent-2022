@@ -3,7 +3,7 @@ title: Supercharge Your Future With Languages
 number: 4
 slug: languages
 description:
-date: 2023-02-01T20:57:54+01:00
+date: 2023-01-04T20:57:54+01:00
 author: Nikola Balić
 layout: ../../layouts/LetterLayout.astro
 ---
