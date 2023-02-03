@@ -1,9 +1,9 @@
 ---
 title: Leave Perfection Behind
 number: 3
-slug: progress
+slug: perfection
 description:
-date: 2023-02-01T20:57:54+01:00
+date: 2023-01-03T20:57:54+01:00
 author: Nikola Balić
 layout: ../../layouts/LetterLayout.astro
 ---
