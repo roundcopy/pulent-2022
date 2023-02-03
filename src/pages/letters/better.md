@@ -1,3 +1,12 @@
+---
+title: You just need to be better
+number: 12
+slug: better
+description:
+date: 2023-01-12T20:57:54+01:00
+author: Nikola Balić
+layout: ../../layouts/LetterLayout.astro
+---
 
 My dear sons,
 
