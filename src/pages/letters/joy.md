@@ -1,3 +1,13 @@
+---
+title: Find joy in what you do
+number: 9
+slug: joy
+description:
+date: 2023-02-03T20:57:54+01:00
+author: Nikola Balić
+layout: ../../layouts/LetterLayout.astro
+---
+
 My dear sons,
 
 It's important to find joy and happiness in what you do. But remember, it's more important to enjoy what you do, rather than just doing what you enjoy.
