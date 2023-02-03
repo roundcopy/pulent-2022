@@ -1,3 +1,13 @@
+---
+title: The Power of Showing Up 
+number: 14
+slug: better
+description:
+date: 2023-01-14T20:57:54+01:00
+author: Nikola Balić
+layout: ../../layouts/LetterLayout.astro
+---
+
 My dear sons,
 
 Success is a journey, not a destination. And the first step to success is simply showing up.
