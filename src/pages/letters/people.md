@@ -1,9 +1,9 @@
 ---
-title: Commitment Leads to Success
+title: People Are Spice Of Life
 number: 2
 slug: people
 description:
-date: 2023-02-01T20:57:54+01:00
+date: 2023-01-02T20:57:54+01:00
 author: Nikola Balić
 layout: ../../layouts/LetterLayout.astro
 ---
