@@ -13,7 +13,7 @@ export default defineConfig({
                 branch: 'master',
               },
               media_folder: 'public/images',
-              public_folder: 'public',
+              public_folder: '/images',
               publish_mode: 'editorial_workflow',
               collections: [
                 {
