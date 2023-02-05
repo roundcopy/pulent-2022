@@ -25,10 +25,10 @@ So embrace your drafts, embrace the messy creation process, and never be ashamed
 
 Love, Dad.
 
-![](/images/drafts_07.jpg)
+![First draft](/images/drafts_07.jpg)
 
-![](/images/drafts_08.jpg)
+![First Study](/images/drafts_08.jpg)
 
-![](/images/drafts_09.jpg)
+![First version](/images/drafts_09.jpg)
 
-![](/images/drafts_10.jpg)
+![Final work](/images/drafts_10.jpg)
