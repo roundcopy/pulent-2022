@@ -3,9 +3,9 @@ title: You just need to be better
 number: 12
 slug: better
 tags:
- - improvement
- - progress
- - growth
+  - improvement
+  - progress
+  - growth
 description: Letter to my sons on the topic of striving for improvement over perfection. Focus on progress and growth to drive innovation and success.
 date: 2023-01-12T19:25:03+01:00
 author: Nikola Balić

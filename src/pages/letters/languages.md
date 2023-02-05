@@ -5,7 +5,7 @@ slug: languages
 tags:
  - languages
  - superpower
-- culture
+ - culture
 description: Letter to my sons on the topic of the benefits of learning languages. Start early and aim to learn as many as possible to unlock doors of opportunities and be better prepared for challenges.
 date: 2023-01-04T19:07:56+01:00
 author: Nikola Balić

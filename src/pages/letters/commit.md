@@ -3,9 +3,9 @@ title: Commit to Giving Your All
 number: 1
 slug: commit
 tags:
- - choices
- - commitment
- - satisfaction
+  - choices
+  - commitment
+  - satisfaction
 description: Letter to my sons on the topic of commitment. Give it your all in all aspects of life, from school to work to hobbies, for better outcomes and satisfaction.
 date: 2023-01-01T16:34:12+01:00
 author: Nikola Balić
