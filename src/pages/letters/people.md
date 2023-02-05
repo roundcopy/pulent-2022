@@ -2,8 +2,12 @@
 title: People Are Spice Of Life
 number: 2
 slug: people
-description:
-date: 2023-01-02T20:57:54+01:00
+tags:
+ - people
+ - comfort zone
+ - open
+description: Letter to my sons on the topic of meeting new people. Discover new spices in life, navigate relationships with understanding, and grow through experiences.
+date: 2023-01-02T18:15:03+01:00
 author: Nikola Balić
 layout: ../../layouts/LetterLayout.astro
 ---

@@ -2,8 +2,12 @@
 title: The Power of Learning and Doing
 number: 5
 slug: learning
-description:
-date: 2023-02-01T20:57:54+01:00
+tags:
+ - learning
+ - superpower
+ - progress
+description: Letter to my sons on the topic of the importance of learning. Don't be content with knowledge, put it into action and strive to be better through continuous learning.
+date: 2023-01-05T16:45:33+01:00
 author: Nikola Balić
 layout: ../../layouts/LetterLayout.astro
 ---

@@ -2,8 +2,12 @@
 title: Never presume that others are more skilled 
 number: 15
 slug: selfconfidence
-description:
-date: 2023-01-15T20:57:54+01:00
+tags:
+ - skills
+ - talents
+ - confidence
+description: Letter to my sons on the topic of not underestimating or overestimating one's own skills and abilities. Be confident, humble and never presume the capabilities of others.
+date: 2023-01-15T17:31:44+01:00
 author: Nikola Balić
 layout: ../../layouts/LetterLayout.astro
 ---

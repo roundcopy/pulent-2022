@@ -2,8 +2,12 @@
 title: Find joy in what you do
 number: 9
 slug: joy
-description:
-date: 2023-02-03T20:57:54+01:00
+tags:
+ - joy
+ - happiness
+ - fulfillment
+description: Letter to my sons on the topic of finding joy and happiness. Enjoy what you do for a fulfilling life, and find joy in your job, hobbies, and relationships.
+date: 2023-01-09T20:01:19+01:00
 author: Nikola Balić
 layout: ../../layouts/LetterLayout.astro
 ---

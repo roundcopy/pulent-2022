@@ -2,8 +2,12 @@
 title: Writing brings clarity
 number: 8
 slug: writing
-description:
-date: 2023-02-01T20:57:54+01:00
+tags:
+ - clarity
+ - writing
+ - habit
+description: Letter to my sons on the topic of the power of writing. Develop clarity, find solutions, and express creativity through writing regularly.
+date: 2023-01-08T19:56:21+01:00
 author: Nikola Balić
 layout: ../../layouts/LetterLayout.astro
 ---

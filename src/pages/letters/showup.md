@@ -2,8 +2,12 @@
 title: The Power of Showing Up 
 number: 14
 slug: better
-description:
-date: 2023-01-14T20:57:54+01:00
+tags:
+ - success
+ - action
+ - showing up
+description: Letter to my sons on the topic of success being a journey. Show up, start making progress, embrace challenges, and never give up on the road to success.
+date: 2023-01-14T20:17:21+01:00
 author: Nikola Balić
 layout: ../../layouts/LetterLayout.astro
 ---

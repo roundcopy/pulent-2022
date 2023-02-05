@@ -2,8 +2,12 @@
 title: Supercharge Your Future With Languages
 number: 4
 slug: languages
-description:
-date: 2023-01-04T20:57:54+01:00
+tags:
+ - languages
+ - superpower
+- culture
+description: Letter to my sons on the topic of the benefits of learning languages. Start early and aim to learn as many as possible to unlock doors of opportunities and be better prepared for challenges.
+date: 2023-01-04T19:07:56+01:00
 author: Nikola Balić
 layout: ../../layouts/LetterLayout.astro
 ---

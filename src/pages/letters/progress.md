@@ -2,8 +2,12 @@
 title: Leave Perfection Behind
 number: 3
 slug: perfection
-description:
-date: 2023-01-03T20:57:54+01:00
+tags:
+ - progress
+ - perfection
+ - journey
+description: Letter to my sons on the topic of progress over perfection. Embrace the journey, strive for excellence, and make progress, not just perfection.
+date: 2023-01-03T17:22:44+01:00
 author: Nikola Balić
 layout: ../../layouts/LetterLayout.astro
 ---

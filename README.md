@@ -1,12 +1,10 @@
-# Astro Creek - a blog theme for Astro
+# This is a personal web site - Pulent.com
 
-![](./public/images/creek.png)
+# This site uses Astro SSG
+
+This site is using a modified blog theme for Astro called Creek.
 
 Creek is an open source blog theme for [Astro SSG](https://docs.astro.build/getting-started/).
-
-## Demo
-
-[View Creek on Netlify](https://astro-theme-creek.netlify.app/)
 
 ## Credits
 
@@ -20,7 +18,3 @@ This theme also take's some ideas and functionality from [Ink](https://github.co
 - Sitemap
 - RSS Feed
 - SEO ready. If you are looking for more SEO functionality, check out this [Astro SEO Plugin](https://github.com/jonasmerlin/astro-seo).
-
-## Misc.
-
-This theme used to power my personal site [HowToCode.io](https://howtocode.io), the repo of which can be found [here](https://github.com/robertguss/HowToCode-Astro)

@@ -2,11 +2,16 @@
 title: Create Your Own Luck
 number: 6
 slug: luck
-description:
-date: 2023-02-01T20:57:54+01:00
+tags:
+ - luck
+ - opportunities
+ - creator
+description: Letter to my sons on the topic of creating luck. Embrace opportunities, be proactive, and recognize the moment to create luck in your life.
+date: 2023-01-06T20:12:11+01:00
 author: Nikola Balić
 layout: ../../layouts/LetterLayout.astro
 ---
+
 Dear Sons,
 
 Luck is not just something that happens to you, it's something you create. The more open and present you are, the more opportunities you'll be able to recognize and take advantage of.
