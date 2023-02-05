@@ -12,7 +12,7 @@ export default defineConfig({
                 repo: 'roundcopy/pulent-2022',
                 branch: 'master',
               },
-              media_folder: '/public/images',
+              media_folder: 'public/images',
               public_folder: '/images',
               publish_mode: 'editorial_workflow',
               collections: [
