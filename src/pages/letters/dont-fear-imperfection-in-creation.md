@@ -31,4 +31,4 @@ Love, Dad.
 
 ![First version](/images/drafts_09.jpg)
 
-![Final work](/images/drafts_10.jpg)
+![Final work](/images/drafts_10.jpg "Edward Hopper's wife, Josephine N. Hopper, served as his model for 1952's Morning Sun. Image: Columbus Museum of Art/Howald Fund")
