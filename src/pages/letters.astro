@@ -16,6 +16,8 @@ const seoDescription = 'Life Lessons from Dad: Inspirational Letters for a Fulfi
 
 const allLetters = await Astro.glob<MarkdownFrontmatter>('./letters/*.md');
 const sortedLetters = allLetters.sort((a, b) => new Date(b.frontmatter.date).valueOf() - new Date(a.frontmatter.date).valueOf());
+
+const uniqueTags = [...new Set(allLetters.map((letter) => letter.frontmatter.tags).flat())];
 ---
 
 <html lang="en">
@@ -31,7 +33,7 @@ const sortedLetters = allLetters.sort((a, b) => new Date(b.frontmatter.date).val
     <article class="max-w-6xl mx-auto px-3">
       <HomeHeader title={title} description={description} />
       <section class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 py-8" data-test="articles-section">
-        {allLetters.map(p => <div class="col-span-1">
+        {sortedLetters.map(p => <div class="col-span-1">
           <Letter letter={p} />
         </div>)}
       </section>

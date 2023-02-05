@@ -15,8 +15,12 @@ const { letter } = Astro.props;
     <p class="text-xs text-gray-600 mt-4 flex items-center">
       Letter No. {letter.frontmatter.number}
     </p> 
-    <h2 class="font-bold text-2xl leading-tight">
+    <h2 class="font-bold text-2xl leading-tight capitalize">
       {letter.frontmatter.title}
     </h2>
+    {letter.frontmatter.tags.map(p => <span class="relative right-2 top-2 text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-cyan-600 bg-cyan-200 uppercase last:mr-0 mr-1">
+      {p}
+    </span>)}
+
   </div>
 </a>
