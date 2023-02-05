@@ -1,7 +1,0 @@
-backend:
-  name: 'git-gateway',
-  repo: 'roundcopy/pulent-2022',
-  branch: 'master',
-
-media_folder: /public/images
-public_folder: /images
