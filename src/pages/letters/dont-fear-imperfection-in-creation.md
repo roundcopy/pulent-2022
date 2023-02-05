@@ -25,10 +25,10 @@ So embrace your drafts, embrace the messy creation process, and never be ashamed
 
 Love, Dad.
 
-![First draft](/images/drafts_07.jpg)
+![Edward Hopper - Draft](/images/drafts_07.jpg "Edward Hopper - Draft")
 
-![First Study](/images/drafts_08.jpg)
+![Edward Hopper - Study](/images/drafts_08.jpg "Edward Hopper - Study")
 
-![First version](/images/drafts_09.jpg)
+![Edward Hopper - First version](/images/drafts_09.jpg "Edward Hopper - First version")
 
-![Final work](/images/drafts_10.jpg)
+![Final work - Edward Hopper's wife, Josephine N. Hopper, served as his model for 1952's Morning Sun. Image: Columbus Museum of Art/Howald Fund](/images/drafts_10.jpg "Final work - Edward Hopper's wife, Josephine N. Hopper, served as his model for 1952's Morning Sun. Image: Columbus Museum of Art/Howald Fund")
