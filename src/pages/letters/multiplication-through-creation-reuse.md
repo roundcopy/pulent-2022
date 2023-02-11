@@ -8,7 +8,7 @@ tags:
   - creation
 description: Letter to my sons on the topic of reuse of your creations. Plan for
   reuse of ideas and creations to reach a wider audience and maximize benefits.
-date: 2023-02-10T02:34:10+01:00
+date: 2023-02-06T02:34:10+01:00
 author: Nikola Balić
 layout: ../../layouts/LetterLayout.astro
 ---
