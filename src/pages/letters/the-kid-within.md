@@ -1,5 +1,5 @@
 ---
-title: The Kid within
+title: Embrace Your Inner Child
 number: "23"
 slug: kid-within
 tags:
