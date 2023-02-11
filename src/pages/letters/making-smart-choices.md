@@ -17,7 +17,7 @@ My dear sons,
 
 One of the most important lessons in life is learning how to make smart choices. And one of the ways to do this is by thinking about the outcome of your choices.
 
-Remember when you told me about the hunting horn and hunting dogs? It's smarter to go for the horn because you can command the dogs, instead of having just one dog. This is a crucial learning for making smart choices in life.
+Remember when you told me about the hunting horn and hunting dogs? It's smarter to go for the horn because you can command the dogs, instead of having just one dog.
 
 Always think about the end goal and what you want to achieve. Then, consider your options and choose the one that will bring you the most value.
 
