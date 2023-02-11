@@ -8,7 +8,7 @@ tags:
   - success
 description: Letter to my sons on the topic of the art of sales. Embrace the
   essential life skill of selling ideas, concepts, and yourself to succeed.
-date: 2023-02-10T02:45:21+01:00
+date: 2023-02-07T02:45:21+01:00
 author: Nikola Balić
 layout: ../../layouts/LetterLayout.astro
 ---
