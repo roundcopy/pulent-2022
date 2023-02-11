@@ -8,7 +8,7 @@ tags:
   - habits
 description: Letter to my sons on the topic of health. Prioritize mental and
   physical health by developing healthy habits and seeking support.
-date: 2023-02-10T02:53:10+01:00
+date: 2023-02-08T02:53:10+01:00
 author: Nikola Balić
 layout: ../../layouts/LetterLayout.astro
 ---
