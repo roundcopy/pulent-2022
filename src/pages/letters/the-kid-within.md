@@ -8,7 +8,7 @@ tags:
   - imagination
 description: Letter to my sons on the topic of creativity and imagination. Stay
   inspired by being open-minded and keeping your inner child alive.
-date: 2023-02-11T20:46:54+01:00
+date: 2023-02-14T20:46:54+01:00
 author: Nikola Balić
 layout: ../../layouts/LetterLayout.astro
 ---
