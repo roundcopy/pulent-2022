@@ -23,4 +23,20 @@ Instead, focus on finding solutions and facing challenges head-on. You are capab
 
 Remember, frustration is just a feeling, but it doesn't have to define your reality. Keep a clear head and a steady hand, and you'll be able to navigate life's challenges with grace and ease.
 
-With love, Dad
+With love, \
+Dad
+
+
+
+\*\**
+
+Frustration is not reality. \
+Frustration is an escape from reality. \
+Anger is seductively simple. \
+That impulse is strong. \
+The impulse turns into a string. \
+A wave that breaks against the cliff. \
+The cliff of reality. 
+
+Maybe you should stop. \
+Take a breath.
