@@ -1,6 +1,6 @@
 ---
 title: Embrace Your Inner Child
-number: "23"
+number: "24"
 slug: kid-within
 tags:
   - inner-child
