@@ -2,7 +2,12 @@
 title: The Importance of Being Present in Life
 number: "28"
 slug: be-present
-tags: false
+tags:
+  - Presence
+  - intuiton
+description: Letter to my sons on the topic of being present in the moment in
+  life. Encouragement to slow down, appreciate details, and pay attention to
+  intuition to make better decisions and find success.
 date: 2023-02-19T10:33:44+01:00
 author: Nikola Balić
 layout: ../../layouts/LetterLayout.astro
