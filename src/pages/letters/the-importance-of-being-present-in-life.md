@@ -4,7 +4,8 @@ number: "28"
 slug: be-present
 tags:
   - Presence
-  - intuiton
+  - intuition
+  - details
 description: Letter to my sons on the topic of being present in the moment in
   life. Encouragement to slow down, appreciate details, and pay attention to
   intuition to make better decisions and find success.
