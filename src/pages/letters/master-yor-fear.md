@@ -8,7 +8,7 @@ tags:
   - performance
 description: Letter to my sons on the topic of fear. Learn to master fear and
   use it to your advantage for better performance and success.
-date: 2023-02-11T21:59:53+01:00
+date: 2023-02-11T20:59:53+01:00
 author: Nikola Balić
 layout: ../../layouts/LetterLayout.astro
 ---

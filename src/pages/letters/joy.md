@@ -1,6 +1,6 @@
 ---
 title: Find joy in what you do
-number: 9
+number: "9"
 slug: joy
 tags:
   - joy
