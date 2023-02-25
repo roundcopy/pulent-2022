@@ -72,7 +72,7 @@ To ensure continued success, it's important to track progress and measure the im
 
 This includes tracking key metrics such as customer satisfaction, sales, and product usage, as well as conducting regular performance reviews and gathering feedback from employees and customers.
 
-Objectives and Key Results (OKRs) provide an effective tool for tracking progress and measuring impact to achieve [profitable SaaS companies](https://www.pulent.com/saas-profitability-okrs-client-acquisition-customer-retention-product-innovation), allowing businesses to set clear, quantifiable goals and regularly check-in on their progress towards achieving them.
+Objectives and Key Results (OKRs) provide an effective tool for tracking progress and measuring impact to achieve [profitable SaaS companies](https://www.pulent.com/posts/saas-profitability-okrs-client-acquisition-customer-retention-product-innovation), allowing businesses to set clear, quantifiable goals and regularly check-in on their progress towards achieving them.
 
 By measuring progress and continuously refining their approach, successful SaaS companies stay ahead of the curve and continue to drive growth and success.
 
