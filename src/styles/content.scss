@@ -134,3 +134,14 @@
     @apply leading-normal;
   }
 }
+
+article h1 {
+  @apply font-display uppercase font-bold leading-none;
+  margin-bottom: 1em;
+
+  font-size: min(max(1.5rem, 3.15vw), 3.5rem);
+
+  @supports (font-size: clamp(3rem, 6.25vw, 7rem)) {
+    font-size: clamp(3rem, 6.25vw, 7rem);
+  }
+}
