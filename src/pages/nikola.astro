@@ -2,7 +2,6 @@
 import BaseHead from '../components/Head/BaseHead.astro';
 import Nav from '../components/Nav.astro';
 import HomeHeader from '../components/HomeHeader.astro';
-import Card from '../components/Card.astro';
 import Footer from '../components/Footer/Footer.astro';
 import EmailSignup from '../components/Subscribe/EmailSignup.astro';
 
@@ -19,7 +18,7 @@ const seoDescription = 'Nikola Balic, Head of Science and Innovation at UNIST, G
 <html lang="en">
 
 <head>
-  <HomeHeader title={title} description={seoDescription} />
+  <BaseHead title={title} description={seoDescription} />
 </head>
 
 <body class="bg-white text-black font-body leading-normal personality-casual">
@@ -33,8 +32,8 @@ const seoDescription = 'Nikola Balic, Head of Science and Innovation at UNIST, G
             <div class="md:5/12 lg:w-5/12">
             <img src="/images/2022_nikola_sarajevo.jpeg" alt="image" loading="lazy" width="" height="">
             </div>
-            <div class="md:7/12 lg:w-6/12">
-            <h2 class="text-2xl text-gray-900 font-bold md:text-4xl">{title}</h2>
+            <div class="md:7/12 lg:w-6/12 smaller">
+            <h1 class="text-2xl text-gray-900 font-bold md:text-4xl">{title}</h1>
             <p class="mt-6 text-gray-600">As a curious generalist by nature, I wear many hats. I've been around, seen things. With over 14 years of experience working at the intersection of research and industry, I know the ropes. I'm a pro at research enablement, business support, and innovation management. I've been advisor to the management of swiss fintech startup <a href="https://numarics.com/" target="_blank">Numarics</a> and currently serve as the growth lead at cloud development environments pioneer <a href="https://codeanywhere.com/" target="_blank">Codeanywhere</a>.</p>
             <p class="mt-4 text-gray-600">I've helped companies grow, created successful new products, pricing strategies, and inbound campaigns. I'm a mentor to startups, a judge at startup events, EU project evaluator, and project manager on projects with a cumulative value over 34 million EUR. I was European IP Helpdesk ambassador.</p>
             <p class="mt-4 text-gray-600">I'm working to build innovation systems and support entrepreneurial and innovative researchers and companies. In short, I'm a master of growth and innovation.</p>
