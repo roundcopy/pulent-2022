@@ -137,8 +137,4 @@
 
 article h1 {
   font-size: min(max(1.5rem, 3.15vw), 3.5rem);
-
-  @supports (font-size: clamp(1.5rem, 3.15vw), 3.5rem) {
-    font-size: clamp(1.5rem, 3.15vw), 3.5rem);
-  }
 }
