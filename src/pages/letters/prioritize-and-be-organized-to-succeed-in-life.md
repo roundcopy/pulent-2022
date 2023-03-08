@@ -1,5 +1,5 @@
 ---
-title: Prioritize and be organized to succeed in life
+title: "Prioritize Like a Pro: Organizing Your Life for Skillful Success"
 number: "25"
 slug: education
 tags:
