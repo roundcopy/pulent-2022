@@ -1,5 +1,5 @@
 ---
-title: Embracing Failure and Taking Risks
+title: "Failing Forward: Embracing Risk as the Key to Success"
 number: "27"
 slug: failure
 tags:
