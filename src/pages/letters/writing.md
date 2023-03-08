@@ -1,12 +1,13 @@
 ---
-title: Writing brings clarity
+title: Write Your Way to Clarity
 number: 8
 slug: writing
 tags:
- - clarity
- - writing
- - habit
-description: Letter to my sons on the topic of the power of writing. Develop clarity, find solutions, and express creativity through writing regularly.
+  - clarity
+  - writing
+  - habit
+description: Letter to my sons on the topic of the power of writing. Develop
+  clarity, find solutions, and express creativity through writing regularly.
 date: 2023-01-08T19:56:21+01:00
 author: Nikola Balić
 layout: ../../layouts/LetterLayout.astro

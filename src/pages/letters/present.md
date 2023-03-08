@@ -1,12 +1,14 @@
 ---
-title: Live in the present
+title: "Seize the Moment: Living Life in the Present with Open Eyes"
 number: 11
 slug: present
 tags:
- - present
- - live life
- - accumulate
-description: Letter to my sons on the topic of balancing present and future. Live life to the fullest today, but make sure your actions today build a better tomorrow.
+  - present
+  - live life
+  - accumulate
+description: Letter to my sons on the topic of balancing present and future.
+  Live life to the fullest today, but make sure your actions today build a
+  better tomorrow.
 date: 2023-01-11T18:40:56+01:00
 author: Nikola Balić
 layout: ../../layouts/LetterLayout.astro

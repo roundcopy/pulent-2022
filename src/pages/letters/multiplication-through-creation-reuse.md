@@ -1,5 +1,5 @@
 ---
-title: Multiplication through creation reuse
+title: "Create to Multiply: Crafting Communication and Reuse"
 number: "17"
 slug: reuse
 tags:

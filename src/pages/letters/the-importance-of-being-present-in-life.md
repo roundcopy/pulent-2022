@@ -1,5 +1,5 @@
 ---
-title: The Importance of Being Present in Life
+title: "Be Here Now: Noticing the Details and Trusting Your Gut"
 number: "28"
 slug: be-present
 tags:

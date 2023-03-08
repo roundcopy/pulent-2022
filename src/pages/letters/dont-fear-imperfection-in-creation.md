@@ -1,5 +1,5 @@
 ---
-title: Don't Fear Imperfection in Creation
+title: "Embrace the Mess: The Beauty of Imperfection in Creation"
 number: "16"
 slug: drafts
 tags:

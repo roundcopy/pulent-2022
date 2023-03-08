@@ -1,5 +1,5 @@
 ---
-title: Taking an Active Role in Designing Your Life
+title: "Design Your Life: Purposeful Action or Meaningless Drift?"
 number: "30"
 slug: meaningoflife
 tags:

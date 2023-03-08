@@ -1,5 +1,5 @@
 ---
-title: Your loved ones are your strength
+title: "Love is the Answer: Building Strength through Positive Relationships"
 number: "21"
 slug: relationships
 tags:

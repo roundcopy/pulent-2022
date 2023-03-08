@@ -1,5 +1,5 @@
 ---
-title: Master yor fear
+title: "Fearless and Focused: How to Control Your Mind and Boost Your Performance"
 number: "22"
 slug: fear
 tags:

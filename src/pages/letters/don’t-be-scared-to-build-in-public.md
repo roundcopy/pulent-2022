@@ -1,5 +1,5 @@
 ---
-title: "Don’t be scared to build in public "
+title: "Building in Public: How to Grow with Confidence and Share Your Journey"
 number: "20"
 slug: buildinpublic
 tags:
