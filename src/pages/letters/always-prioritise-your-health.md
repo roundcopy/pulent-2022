@@ -1,5 +1,5 @@
 ---
-title: Always prioritise your health
+title: "Health is Wealth: Prioritizing Habits and Happiness for a Fulfilling Life"
 number: "19"
 slug: health
 tags:
