@@ -1,5 +1,5 @@
 ---
-title: Making Smart Choices
+title: "Choose Your Own Adventure: Making Smart Decisions with Added Value"
 number: "23"
 slug: choices
 tags:
