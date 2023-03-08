@@ -1,5 +1,5 @@
 ---
-title: Embrace Your Inner Child
+title: "Unleash Your Inner Child: Tapping into Creativity and Imagination"
 number: "24"
 slug: kid-within
 tags:
