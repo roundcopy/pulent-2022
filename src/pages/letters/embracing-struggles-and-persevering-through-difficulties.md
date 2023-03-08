@@ -1,5 +1,5 @@
 ---
-title: Embracing Struggles and Persevering Through Difficulties
+title: "The Struggle is Real: How Perseverance Fuels Growth"
 number: "29"
 slug: metallica
 tags:
