@@ -1,12 +1,14 @@
 ---
-title: Learn from others mistakes
+title: Learn from Others Mistakes
 number: 10
 slug: mistakes
 tags:
- - learning
- - mistakes
- - opportunity
-description: Letter to my sons on the topic of learning from mistakes. Seek out advice from others, take mistakes as opportunities to grow, and never stop learning.
+  - learning
+  - mistakes
+  - opportunity
+description: Letter to my sons on the topic of learning from mistakes. Seek out
+  advice from others, take mistakes as opportunities to grow, and never stop
+  learning.
 date: 2023-01-10T17:07:33+01:00
 author: Nikola Balić
 layout: ../../layouts/LetterLayout.astro
