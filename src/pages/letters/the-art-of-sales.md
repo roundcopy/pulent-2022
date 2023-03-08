@@ -1,5 +1,5 @@
 ---
-title: " The Art of the Sale: Conquering Confidence and Success"
+title: "The Art of the Sale: Conquering Confidence and Success"
 number: "18"
 slug: sales
 tags:
