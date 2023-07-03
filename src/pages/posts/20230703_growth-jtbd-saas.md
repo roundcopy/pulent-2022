@@ -1,3 +1,18 @@
+---
+author: "Nikola Bali\u0107"
+core_topic: false
+date: '2023-07-03'
+description: Discover how adopting the Jobs-to-be-Done (JTBD) framework can unlock
+  growth opportunities for SaaS companies in the competitive industry.
+hero: /images/tmp.jpeg
+layout: ../../layouts/BlogPostLayout.astro
+slug: unlocking-growth-opportunities-jobs-to-be-done-jtbd-saas-industry
+tags:
+- SaaS
+- Jobs-to-be-Done
+- Growth Opportunities
+title: Unlocking Growth Opportunities with Jobs-to-be-Done (JTBD) in the SaaS Industry
+---
 Title: Unlocking Growth Opportunities with Jobs-to-be-Done (JTBD) in the SaaS Industry
 
 Introduction
