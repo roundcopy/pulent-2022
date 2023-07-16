@@ -20,23 +20,23 @@ date: 2023-07-16T07:41:10+02:00
 author: Nikola Balić
 layout: ../../layouts/BlogPostLayout.astro
 ---
-Writing a book can be an overwhelming task, but I discovered a unique approach to overcoming the challenges and successfully completing my book using AI technology. 
+Writing a book can be overwhelming, but I discovered a unique approach to overcoming the challenges and successfully completing my book using AI help.
 
-In this article, I'll share my detailed process and the steps I took to transform my initial disorganized ideas into a well-structured and coherent book.
+In this article, I'll share my detailed process and the steps I took to transform my disorganized ideas into a well-structured and coherent book.
 
 **Key Highlights (TL;DR)**:
 
 1. **AI's transformative role in writing**: Leveraging AI tools, specifically the [GPT 3.5 turbo 16K](https://platform.openai.com/docs/models/gpt-3-5) model and [Anthropic AI's Claude 2](https://claude.ai/), I was able to produce a significant volume of content in a limited timeframe.
 2. **Learning from mistakes**: My initial writing process was inefficient and aimless. Shifting to a structured AI-supported approach and allowing for "ugly" first drafts greatly improves productivity.
-3. **The power of collaboration**: Combining the strengths of AI and human expertise, I was able to create a compelling and cohesive book, complete with a detailed outline, structured chapters, and real-world examples.
+3. **The power of collaboration**: Combining the strengths of AI and human expertise, I created a compelling and cohesive book, complete with a detailed outline, structured chapters, and real-world examples.
 
 ## Initiation
 
 A few years ago, during my vacation, I had set a goal to **dedicate at least 30 minutes every night to write**. 
 
-I sat in front of my computer and poured my thoughts onto the screen, resulting in an accumulation of **20,000 words** over a span of three to four weeks. 
+I sat in front of my computer and poured my thoughts onto the screen, accumulating **20,000 words** over three to four weeks. 
 
-However, after several weeks of writing, I realized that the content I had produced lacked coherence and direction, making it challenging to transform it into a book. Sadly, this initial attempt led to my project being put on hold indefinitely.
+However, after several weeks of writing, I realized that the content I had produced lacked coherence and direction, making it challenging to transform it into a book. Sadly, this initial attempt put my little project on hold indefinitely.
 
 > "Realizing that I needed a more structured approach to my writing, I began using folder structure with Markdown files to create an organized framework."
 
@@ -52,11 +52,11 @@ To improve my approach, I turned to using [Markdown](https://daringfireball.net/
 
 ## Learning from Mistakes
 
-One significant lesson I learned from my previous failed attempt was the importance of avoiding over-editing during the writing process. 
+One lesson I learned from my previous failed attempt was the importance of avoiding over-editing during writing. 
 
 Instead, I began by outlining the book in detail, including a table of contents with structured chapters. For each sub-chapter, I would write a few words as ideas developed. 
 
-Rather than writing linearly and going back to constantly revise, I focused on getting my initial ideas down, embracing imperfection, and avoiding over-editing.
+Rather than writing linearly and going back to revise constantly, I focused on getting my initial ideas down, embracing imperfection, and avoiding over-editing.
 
 > "In the words of Hemingway, "Write drunk, edit sober." Even the "ugly" first draft could have significant value."
 
@@ -71,10 +71,10 @@ I have lost the initial prompts, but they weren't that complicated. The power of
 Here is one of the prompts I used, and I have played with different "personas":
 
 ```markdown
-Imagine you are a scientist in the field of project management and you are experienced Horizon 2020 and Europe beneficiary. You also work as an expert evaluator for European Comission. Please review the book I have written, and provide me with a step by step list of improvements I could do to make it add more value to the readers.
+Imagine you are a scientist in the field of project management, and you are an experienced Horizon 2020 and Europe beneficiary. You also work as an expert evaluator for European Commission. Please review the book I have written, and provide me with a step-by-step list of improvements I could make to add more value to the readers.
 ```
 
-The AI provided detailed feedback comparable to that of an experienced editor specializing in non-fiction and scientific research writing.
+The AI provided detailed feedback comparable to an experienced editor specializing in non-fiction and scientific research writing.
 
 > "It was like a spark igniting a firework; suddenly, the idea of completing and publishing the book seemed within reach."
 
