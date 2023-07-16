@@ -22,7 +22,7 @@ layout: ../../layouts/BlogPostLayout.astro
 ---
 While writing a book can be overwhelming, I discovered a new approach to overcome the challenges and successfully complete it with the help of AI.
 
-Here, I'll share my detailed process and the steps I took to transform my disorganized ideas into a well-structured and coherent book.
+I'll share my detailed process and the steps I took to transform my disorganized ideas into a well-structured and coherent book.
 
 **Key Highlights (TL;DR)**:
 
@@ -38,7 +38,7 @@ I sat before my computer and poured my thoughts onto the screen, accumulating *
 
 ## Discovering the Importance of Structure
 
-During the writing, I compiled all the important bits into a **concept file** to keep the clarity of targets I set for the book.
+During the writing, I compiled all the important bits into a **concept file** to keep the clarity of the targets I set for the book.
 
 This comprehensive document was not intended to be a part of the book, but it provided a deep understanding of the book's subject matter and its intended audience.
 
@@ -62,15 +62,15 @@ Rather than writing linearly and going back to revise constantly, I focused on g
 
 > In the words of Hemingway, **"Write drunk, edit sober."** Even the "ugly" first draft could have significant value.
 
-However, after several weeks of writing, I realized that my words lack coherence and required much more time investment, making it challenging to transform them into a book.
+However, after several weeks of writing, I realized that my words lacked coherence and required much more time investment, making it challenging to transform them into a book.
 
-Sadly, this put my little project on hold indefinitely.
+Sadly, this has put my little project on hold indefinitely.
 
 I wasn't ready to invest 6-9 months of writing.
 
 ## Harnessing the Power of AI in Book Writing
 
-Here comes the turning point — the general availability of AI tools.
+Here comes the turning point—the general availability of AI tools.
 
 Excited about the possibilities, I consolidated all my writing files into a single document and uploaded it to the Claude AI.
 
@@ -78,7 +78,7 @@ Claude 2 is a powerful [large language model (LLM)](https://en.wikipedia.org/wik
 
 The feedback I received from [Claude AI](https://claude.ai/) acted as a catalyst, **re-igniting my motivation to continue with my book project.**
 
-I lost the initial prompts, but they were simple. 
+I lost the initial prompts, but they were simple.
 
 Here is one of the simple prompts I used, and I have played with different "personas":
 
@@ -98,7 +98,7 @@ I revised the outline to make it more in tune with my target audience.
 
 > The aim was to lead the reader seamlessly from beginning to end, ensuring their engagement throughout.
 
-Thrilled with the results, I have now integrated GPT 3.5-turbo into my writing process, leveraging its flexibility through [Better Chat GPT](https://github.com/ztjhz/BetterChatGPT) interface.
+Thrilled with the results, I have now integrated GPT 3.5-turbo into my writing process, leveraging its flexibility through the [Better Chat GPT](https://github.com/ztjhz/BetterChatGPT) interface.
 
 Crafting a system prompt became crucial.
 
@@ -151,9 +151,9 @@ Finally, I assembled the segments into a single markdown file, including the new
 
 I reran it with Claude, experimenting with prompts for more feedback.
 
-Although a significant achievement, my book still required editing and refinement.
+Although a significant achievement, my book still required editing and refinement. And I don't have time nor nerves for this.
 
-Now I sought assistance from a human editor and proofreader to ensure the final product was refined, coherent, and value-driven.
+Now it was the time to seek assistance from a human editor and proofreader to ensure the final product was refined, coherent, and value-driven.
 
 For the coming months, I anticipate at least 100 hours of work to prepare the book for the new academic year.
 
@@ -165,11 +165,11 @@ The book primarily targets **young researchers**, drawing from my extensive **
 
 > The journey thus far has been engrossing, and I can't wait to see what my human editor will bring to the table.
 
-## Steps to Get Started Writing a Book with AI:
+## Five Steps to Get Started Writing a Book with AI:
 
 1. **Begin with a Concept File and Outline**: Start by creating a concept file that outlines the key details of your book, such as title, subtitle, target audience, problems, pains, needs, and gains. Craft a detailed outline resembling a table of contents, compellingly arranging chapters and sub-chapters.
 2. **Draft and Gather Ideas**: Rather than worrying about perfection in the initial drafts, focus on pouring your ideas onto the page without strict editing. Write non-linearly and collect diverse ideas to have a substantial content bank.
-3. **Utilize AI to Enhance Your Writing**: Use AI tools, like Claude AI, to improve the content using your own tone and style. Consolidate your writing files into one document and upload them to an AI platform. The AI can provide valuable feedback, suggestions, and improvements to enhance your work.
+3. **Utilize AI to Enhance Your Writing**: Use AI tools, like Claude AI, to improve the content using your tone and style. Consolidate your writing files into one document and upload them to an AI platform. The AI can provide valuable feedback, suggestions, and improvements to enhance your work.
 4. **Enrich Content with AI**: Fine-tune the generated AI content by incorporating your unique voice and perspectives. Enhance the writing by referring to your original drafts and using AI models to add depth and clarity. Explore AI tools to supplement your work with relevant case studies, examples, and up-to-date information.
 5. **Iterate and Refine**: Continuously revise and refine your book by incorporating AI-generated content and feedback from AI tools. Create a harmonious flow between your ideas and the content generated by AI. Don't hesitate to seek assistance from human editors or proofreaders to ensure coherence and refine the final product.
 
