@@ -20,9 +20,11 @@ date: 2023-07-16T07:41:10+02:00
 author: Nikola Balić
 layout: ../../layouts/BlogPostLayout.astro
 ---
-Writing a book can be an overwhelming task, but I discovered a unique approach to overcoming the challenges and successfully completing my book using AI technology. In this article, I'll share my detailed process and the steps I took to transform my initial disorganized ideas into a well-structured and coherent book.
+Writing a book can be an overwhelming task, but I discovered a unique approach to overcoming the challenges and successfully completing my book using AI technology. 
 
-**Key Highlights**:
+In this article, I'll share my detailed process and the steps I took to transform my initial disorganized ideas into a well-structured and coherent book.
+
+**Key Highlights (TL;DR)**:
 
 1. **AI's transformative role in writing**: Leveraging AI tools, specifically the [GPT 3.5 turbo 16K](https://platform.openai.com/docs/models/gpt-3-5) model and [Anthropic AI's Claude 2](https://claude.ai/), I was able to produce a significant volume of content in a limited timeframe.
 2. **Learning from mistakes**: My initial writing process was inefficient and aimless. Shifting to a structured AI-supported approach and allowing for "ugly" first drafts greatly improves productivity.
@@ -30,7 +32,9 @@ Writing a book can be an overwhelming task, but I discovered a unique approach t
 
 ## Initiation
 
-A few years ago, during my vacation, I had set a goal to **dedicate at least 30 minutes every night to write**. I sat in front of my computer and poured my thoughts onto the screen, resulting in an accumulation of **20,000 words** over a span of three to four weeks. 
+A few years ago, during my vacation, I had set a goal to **dedicate at least 30 minutes every night to write**. 
+
+I sat in front of my computer and poured my thoughts onto the screen, resulting in an accumulation of **20,000 words** over a span of three to four weeks. 
 
 However, after several weeks of writing, I realized that the content I had produced lacked coherence and direction, making it challenging to transform it into a book. Sadly, this initial attempt led to my project being put on hold indefinitely.
 
@@ -48,7 +52,11 @@ To improve my approach, I turned to using [Markdown](https://daringfireball.net/
 
 ## Learning from Mistakes
 
-One significant lesson I learned from my previous failed attempt was the importance of avoiding over-editing during the writing process. Instead, I began by outlining the book in detail, including a table of contents with structured chapters. For each sub-chapter, I would write a few words as ideas developed. Rather than writing linearly and going back to constantly revise, I focused on getting my initial ideas down, embracing imperfection, and avoiding over-editing.
+One significant lesson I learned from my previous failed attempt was the importance of avoiding over-editing during the writing process. 
+
+Instead, I began by outlining the book in detail, including a table of contents with structured chapters. For each sub-chapter, I would write a few words as ideas developed. 
+
+Rather than writing linearly and going back to constantly revise, I focused on getting my initial ideas down, embracing imperfection, and avoiding over-editing.
 
 > "In the words of Hemingway, "Write drunk, edit sober." Even the "ugly" first draft could have significant value."
 
@@ -62,7 +70,7 @@ I have lost the initial prompts, but they weren't that complicated. The power of
 
 Here is one of the prompts I used, and I have played with different "personas":
 
-```md
+```markdown
 Imagine you are a scientist in the field of project management and you are experienced Horizon 2020 and Europe beneficiary. You also work as an expert evaluator for European Comission. Please review the book I have written, and provide me with a step by step list of improvements I could do to make it add more value to the readers.
 ```
 
@@ -82,7 +90,7 @@ Crafting a system prompt became crucial.
 
 Here is the example of the starting system prompt I have been tweaking for some time now:
 
-```md
+```markdown
 Your name is GhostWriterGPT (Ghostwriting GPT), an AI inspired by Ernest Hemingway's brevity, Malcolm Gladwell's storytelling, and Philip Ball's research depth. Extend the text provided by the user by applying writing strategies to improve clarity, fluency, and brevity. Follow the given rules strictly:
 
 1. Use clear and concise language: Avoid jargon, slang, and complex words. Stick to simple and straightforward terms understandable by your target audience.
@@ -110,6 +118,8 @@ While the generated AI content now formed a substantial portion of my book, I ne
 To address this, I referred to my original 20,000 words and used them to fine-tune the generated AI text, adding depth. 
 
 For real-life case studies, and examples I have used [Google Bard](https://bard.google.com/u/0/) which opened a new opportunities with more current information.
+
+Understanding each AI model, its abilities and limits is crucial in getting out consistent results.
 
 ## Orchestrating a Well-Structured Book through AI
 
@@ -142,3 +152,5 @@ The book primarily targets **young researchers**, drawing from my extensive **13
 This detailed account of my book-writing process showcases the immense potential of leveraging AI and other powerful tools. 
 
 Whether you aspire to write a book, create engaging articles, or establish a meaningful online presence, remember: **with the right balance of human expertise and AI assistance, your potential is limitless.**
+
+Note: *This text was written using recored audio notes which were transcribed using Whisper.cpp and then improved by various AI models.*
