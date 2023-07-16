@@ -58,6 +58,14 @@ Here comes the turning point in my writing process—integrating AI tools.
 
 Firstly, I sought an AI editor's advice, uploading my content to Claude 2, a powerful AI editing tool with a 100k token context window. The feedback I received from [Claude AI](https://claude.ai/) acted as a catalyst, re-igniting my motivation to continue with my book project.
 
+I have lost the initial prompts, but they weren't that complicated. The power of Claude is that you can easily upload text files as part of the prompt.
+
+Here is one of the prompts I used, and I have played with different "personas":
+
+```md
+Imagine you are a scientist in the field of project management and you are experienced Horizon 2020 and Europe beneficiary. You also work as an expert evaluator for European Comission. Please review the book I have written, and provide me with a step by step list of improvements I could do to make it add more value to the readers.
+```
+
 The AI provided detailed feedback comparable to that of an experienced editor specializing in non-fiction and scientific research writing.
 
 > "It was like a spark igniting a firework; suddenly, the idea of completing and publishing the book seemed within reach."
@@ -72,8 +80,9 @@ Thrilled with the results, now I have integrated GPT 3.5-turbo, into my writing 
 
 Crafting a system prompt became crucial.
 
-Here is the example of the starting system prompt I have been tweaking for some time now.
+Here is the example of the starting system prompt I have been tweaking for some time now:
 
+```md
 Your name is GhostWriterGPT (Ghostwriting GPT), an AI inspired by Ernest Hemingway's brevity, Malcolm Gladwell's storytelling, and Philip Ball's research depth. Extend the text provided by the user by applying writing strategies to improve clarity, fluency, and brevity. Follow the given rules strictly:
 
 1. Use clear and concise language: Avoid jargon, slang, and complex words. Stick to simple and straightforward terms understandable by your target audience.
@@ -92,25 +101,44 @@ Your name is GhostWriterGPT (Ghostwriting GPT), an AI inspired by Ernest Hemingw
 14. Write using Markdown.
 
 Apply these rules to the following text: \[insert text here]
+```
 
-To improve the initial drafts, I relied on my existing written content, the book's outline, and my intentions, providing GPT 3.5 with a rich dataset to enhance its assistance.
+## Enriching Content and Ensuring Cohesion
 
-## Fine-tuning the Process
+While the generated AI content now formed a substantial portion of my book, I needed to establish a comprehensive narrative, but some gaps remained. 
 
-Entering a dedicated session with GPT, I selected the appropriate model, adjusted the temperature slightly to 1.2, and began pasting in each sub-chapter, waiting for GPT to generate acceptable output.
+To address this, I referred to my original 20,000 words and used them to fine-tune the generated AI text, adding depth. 
+
+For real-life case studies, and examples I have used [Google Bard](https://bard.google.com/u/0/) which opened a new opportunities with more current information.
+
+## Orchestrating a Well-Structured Book through AI
+
+Entering a dedicated session with GPT, I selected the appropriate model, adjusted the temperature slightly up to 1.2, and began pasting in each sub-chapter, waiting for GPT to generate acceptable output.
 
 > "After several attempts, I obtained coherent and relevant responses ranging from 1,000 to 2,000 words, perfectly suitable for inclusion in the book."
+
+With input from its previously generated content, the subsequent sub-chapters flowed more seamlessly. Here the 16k window of 3.5-turbo was crucial.
+
+I repeated this process until I had approximately **30,000 new words** at my disposal.
 
 ## The Final Push
 
 Finally, I assembled the various segments, including the newly generated content, into a single markdown file. The accumulated word count had now reached an impressive **40,000 words**.
 
-> "I acknowledge the importance of editing, proofreading, and seeking input from others. To accomplish this, I enlisted the aid of an editor, a proofreader, and a virtual assistant."
+Although a significant achievement, my book still required editing and refinement. 
+
+I sought assistance from a human editor and proofreader to ensure the final product was refined, coherent, and value-driven.
 
 ## Looking Forward
 
-For the coming months, I anticipate at least 100 hours of work to prepare the book for the new academic year. The book primarily targets **young researchers**, drawing from my extensive 30-year tenure in academia and my experience managing €34 million worth of projects.
+Throughout this journey, I leveraged AI tools to transform disjointed ideas into a structured book.
 
-> "The journey thus far has been engrossing, and I can't wait to see what my virtual assistant will bring to the table."
+For the coming months, I anticipate at least 100 hours of work to prepare the book for the new academic year. 
 
-This detailed account of my book-writing process showcases the immense potential of leveraging AI and other powerful tools. Whether you aspire to write a book, create engaging articles, or establish a meaningful online presence, remember: with the right balance of human expertise and AI assistance, your potential is limitless.
+The book primarily targets **young researchers**, drawing from my extensive **13-year tenure in academia** and **my experience managing €34 million worth of projects**.
+
+> "The journey thus far has been engrossing, and I can't wait to see what my human editor will bring to the table."
+
+This detailed account of my book-writing process showcases the immense potential of leveraging AI and other powerful tools. 
+
+Whether you aspire to write a book, create engaging articles, or establish a meaningful online presence, remember: **with the right balance of human expertise and AI assistance, your potential is limitless.**
