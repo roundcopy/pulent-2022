@@ -15,15 +15,15 @@ tags:
   - "`AI and human collaboration`"
 description: Discover how AI was used to write a book in a single night. Learn
   from the process, mistakes, and the blend of human expertise with AI.
-hero: false
+hero: /images/aicompanionsontrail.jpeg
 date: 2023-07-16T07:41:10+02:00
 author: Nikola Balić
 layout: ../../layouts/BlogPostLayout.astro
 ---
 **Key Highlights**:
 
-1. **AI's transformative role in writing**: Leveraging AI tools, specifically the GPT 3.5 turbo 16K model and Closed AI's Claude 2, I was able to produce a significant volume of content in a limited timeframe.
-2. **Learning from mistakes**: My initial writing process was inefficient and aimless. Shifting to a structured approach and allowing for "ugly" first drafts greatly improved productivity.
+1. **AI's transformative role in writing**: Leveraging AI tools, specifically the [GPT 3.5 turbo 16K](https://platform.openai.com/docs/models/gpt-3-5) model and [Anthropic AI's Claude 2](https://claude.ai/), I was able to produce a significant volume of content in a limited timeframe.
+2. **Learning from mistakes**: My initial writing process was inefficient and aimless. Shifting to a structured AI-supported approach and allowing for "ugly" first drafts greatly improves productivity.
 3. **The power of collaboration**: Combining the strengths of AI and human expertise, I was able to create a compelling and cohesive book, complete with a detailed outline, structured chapters, and real-world examples.
 
 ## Initiation
