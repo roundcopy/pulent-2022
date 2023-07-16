@@ -1,5 +1,5 @@
 ---
-title: "How I Wrote a Book Last Night: Unleashing the Power of AI"
+title: How I Wrote a Book Last Night
 core_topic: false
 slug: harnessing-ai-to-write-a-book-in-a-night
 tags:
