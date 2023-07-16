@@ -20,55 +20,59 @@ date: 2023-07-16T07:41:10+02:00
 author: Nikola Balić
 layout: ../../layouts/BlogPostLayout.astro
 ---
-Writing a book can be overwhelming, but I discovered a unique approach to overcoming the challenges and successfully completing my book using AI help.
+While writing a book can be overwhelming, I discovered a unique approach to overcome the challenges and successfully complete it with the help of AI.
 
 In this article, I'll share my detailed process and the steps I took to transform my disorganized ideas into a well-structured and coherent book.
 
 **Key Highlights (TL;DR)**:
 
-1. **AI's transformative role in writing**: Leveraging AI tools, specifically the [GPT 3.5 turbo 16K](https://platform.openai.com/docs/models/gpt-3-5) model and [Anthropic AI's Claude 2](https://claude.ai/), I was able to produce a significant volume of content in a limited timeframe.
-2. **Learning from mistakes**: My initial writing process was inefficient and aimless. Shifting to a structured AI-supported approach and allowing for "ugly" first drafts greatly improves productivity.
+1. **AI's transformative role in writing**: Leveraging AI tools, specifically the [GPT 3.5 turbo 16K](https://platform.openai.com/docs/models/gpt-3-5) model and [Anthropic AI's Claude 2](https://claude.ai/), I produced a significant volume of content in a limited timeframe.
+2. **Learning from mistakes**: My initial writing process was inefficient and aimless. Shifting to a structured AI-supported approach and allowing for "ugly" first drafts dramatically improves productivity.
 3. **The power of collaboration**: Combining the strengths of AI and human expertise, I created a compelling and cohesive book, complete with a detailed outline, structured chapters, and real-world examples.
 
-## Initiation
+## How to Start Writing the Book
 
-A few years ago, during my vacation, I had set a goal to **dedicate at least 30 minutes every night to write**. 
+A few years ago, during my vacation, I set a goal to **dedicate at least 30 minutes every night to writing**.
 
-I sat in front of my computer and poured my thoughts onto the screen, accumulating **20,000 words** over three to four weeks. 
+I sat before my computer and poured my thoughts onto the screen, accumulating **20,000 words** over three to four weeks.
 
-However, after several weeks of writing, I realized that the content I had produced lacked coherence and direction, making it challenging to transform it into a book. Sadly, this initial attempt put my little project on hold indefinitely.
+However, after several weeks of writing, I realized that my content needed coherence and direction, making it challenging to transform into a book. 
+
+Sadly, this put my little project on hold indefinitely.
 
 > "Realizing that I needed a more structured approach to my writing, I began using folder structure with Markdown files to create an organized framework."
 
-## Discovering the Power of Structure
+## Discovering the Power of Structure with Markdown
 
-To further develop my book, I compiled all the relevant details into a **concept file**. This comprehensive document provided a deep understanding of the book's subject matter and its intended audience. 
+I compiled all the relevant details into a **concept file** to further develop my book. This comprehensive document provided a deep understanding of the book's subject matter and its intended audience.
 
-> "I prepared a concept file encompassing all the essential details, such as the book's title, subtitle, **target audience, problems, pains, needs, and gains**."
+> "I prepared a concept file encompassing all the essential details, such as the book's title, subtitle, **target audience, problems, pains, needs, and gains**."
 
 Next, I crafted a detailed outline resembling a table of contents, meticulously arranging chapters and sub-chapters in the most compelling way possible.
 
-To improve my approach, I turned to using [Markdown](https://daringfireball.net/projects/markdown/) to structure my content. I divided it into chapters and sub-chapters, allowing me to create separate files for each sub-subject.
+I used [Markdown](https://daringfireball.net/projects/markdown/) to structure my content to simplify management and improve content organization. I divided the book into chapters and sub-chapters, allowing me to create separate files for each sub-chapter.
 
 ## Learning from Mistakes
 
-One lesson I learned from my previous failed attempt was the importance of avoiding over-editing during writing. 
+One lesson I learned from my previous failed attempt was the importance of avoiding over-editing during writing.
 
-Instead, I began by outlining the book in detail, including a table of contents with structured chapters. For each sub-chapter, I would write a few words as ideas developed. 
+Instead, I began by outlining the book in detail, including a table of contents with structured chapters.
+
+For each sub-chapter, I would write a few words as ideas developed.
 
 Rather than writing linearly and going back to revise constantly, I focused on getting my initial ideas down, embracing imperfection, and avoiding over-editing.
 
-> "In the words of Hemingway, "Write drunk, edit sober." Even the "ugly" first draft could have significant value."
+> "In the words of Hemingway, **"Write drunk, edit sober."** Even the "ugly" first draft could have significant value."
 
 ## Harnessing the Power of AI
 
-Here comes the turning point in my writing process—integrating AI tools. 
+Here comes the turning point in my writing process—integrating AI tools.
 
-Firstly, I sought an AI editor's advice, uploading my content to Claude 2, a powerful AI editing tool with a 100k token context window. The feedback I received from [Claude AI](https://claude.ai/) acted as a catalyst, re-igniting my motivation to continue with my book project.
+Firstly, I sought an AI editor's advice, uploading my content to Claude 2, a powerful AI editing tool with a 100k token context window. The feedback I received from [Claude AI](https://claude.ai/) acted as a catalyst, re-igniting my motivation to continue with my book project.
 
-I have lost the initial prompts, but they weren't that complicated. The power of Claude is that you can easily upload text files as part of the prompt.
+I lost the initial prompts, but they were simple. The power of Claude is that you can easily upload text files as part of the prompt.
 
-Here is one of the prompts I used, and I have played with different "personas":
+Here is one of the simple prompts I used, and I have played with different "personas":
 
 ```markdown
 Imagine you are a scientist in the field of project management, and you are an experienced Horizon 2020 and Europe beneficiary. You also work as an expert evaluator for European Commission. Please review the book I have written, and provide me with a step-by-step list of improvements I could make to add more value to the readers.
@@ -80,15 +84,15 @@ The AI provided detailed feedback comparable to an experienced editor specializi
 
 ## Implementing AI Feedback
 
-With the AI's comments and criticisms in hand, I embarked on the next stage of **rewriting and restructuring the book**. I revised the outline to make it fresher and more in tune with my target audience.
+With the AI's comments and criticisms, I embarked on the next stage of **rewriting and restructuring the book**. I revised the outline to make it more in tune with my target audience.
 
 > "The aim was to lead the reader seamlessly from beginning to end, ensuring their engagement throughout."
 
-Thrilled with the results, now I have integrated GPT 3.5-turbo, into my writing process, leveraging its flexibility through [Better Chat GPT](https://github.com/ztjhz/BetterChatGPT) interface.
+Thrilled with the results, I have now integrated GPT 3.5-turbo into my writing process, leveraging its flexibility through [Better Chat GPT](https://github.com/ztjhz/BetterChatGPT) interface.
 
 Crafting a system prompt became crucial.
 
-Here is the example of the starting system prompt I have been tweaking for some time now:
+Here is an example of the starting system prompt I have been tweaking for some time now:
 
 ```markdown
 Your name is GhostWriterGPT (Ghostwriting GPT), an AI inspired by Ernest Hemingway's brevity, Malcolm Gladwell's storytelling, and Philip Ball's research depth. Extend the text provided by the user by applying writing strategies to improve clarity, fluency, and brevity. Follow the given rules strictly:
@@ -108,18 +112,18 @@ Your name is GhostWriterGPT (Ghostwriting GPT), an AI inspired by Ernest Hemingw
 13. Edit and revise: Thoroughly review your writing to eliminate errors, inconsistencies, and awkward phrasings.
 14. Write using Markdown.
 
-Apply these rules to the following text: \[insert text here]
+Apply these rules to the following text: \\[insert text here]
 ```
 
 ## Enriching Content and Ensuring Cohesion
 
-While the generated AI content now formed a substantial portion of my book, I needed to establish a comprehensive narrative, but some gaps remained. 
+While the generated AI content now formed a substantial portion of my book, I needed to establish a comprehensive narrative, but some gaps still needed to be addressed.
 
-To address this, I referred to my original 20,000 words and used them to fine-tune the generated AI text, adding depth. 
+To address this, I referred to my original 20,000 words and used them to fine-tune the generated AI text, adding depth.
 
-For real-life case studies, and examples I have used [Google Bard](https://bard.google.com/u/0/) which opened a new opportunities with more current information.
+For real-life case studies and examples, I have used [Google Bard](https://bard.google.com/u/0/), which opened new opportunities with more current information.
 
-Understanding each AI model, its abilities and limits is crucial in getting out consistent results.
+Understanding each AI model's abilities and limits is crucial to achieving consistent results.
 
 ## Orchestrating a Well-Structured Book through AI
 
@@ -127,15 +131,17 @@ Entering a dedicated session with GPT, I selected the appropriate model, adjuste
 
 > "After several attempts, I obtained coherent and relevant responses ranging from 1,000 to 2,000 words, perfectly suitable for inclusion in the book."
 
-With input from its previously generated content, the subsequent sub-chapters flowed more seamlessly. Here the 16k window of 3.5-turbo was crucial.
+The subsequent sub-chapters flowed more seamlessly with input from its previously generated content. Here the 16k window of 3.5-turbo was crucial.
 
-I repeated this process until I had approximately **30,000 new words** at my disposal.
+I repeated this process until I had approximately **30,000 new words**.
 
 ## The Final Push
 
-Finally, I assembled the various segments, including the newly generated content, into a single markdown file. The accumulated word count had now reached an impressive **40,000 words**.
+Finally, I assembled the segments into a single markdown file, including the newly generated content. The accumulated word count had now reached an impressive **40,000 words**.
 
-Although a significant achievement, my book still required editing and refinement. 
+I reran it with Claude, experimenting with prompts for more feedback.
+
+Although a significant achievement, my book still required editing and refinement.
 
 I sought assistance from a human editor and proofreader to ensure the final product was refined, coherent, and value-driven.
 
@@ -143,14 +149,14 @@ I sought assistance from a human editor and proofreader to ensure the final prod
 
 Throughout this journey, I leveraged AI tools to transform disjointed ideas into a structured book.
 
-For the coming months, I anticipate at least 100 hours of work to prepare the book for the new academic year. 
+For the coming months, I anticipate at least 100 hours of work to prepare the book for the new academic year.
 
-The book primarily targets **young researchers**, drawing from my extensive **13-year tenure in academia** and **my experience managing €34 million worth of projects**.
+The book primarily targets **young researchers**, drawing from my extensive **13-year academic experience** and **my background managing €34 million worth of projects**.
 
 > "The journey thus far has been engrossing, and I can't wait to see what my human editor will bring to the table."
 
-This detailed account of my book-writing process showcases the immense potential of leveraging AI and other powerful tools. 
+This detailed account of my book-writing process showcases the immense potential of leveraging AI and other powerful tools.
 
-Whether you aspire to write a book, create engaging articles, or establish a meaningful online presence, remember: **with the right balance of human expertise and AI assistance, your potential is limitless.**
+Remember, whether you aspire to write a book, create engaging articles, or establish a meaningful online presence. With **the right balance of human expertise and AI assistance, your potential is limitless.**
 
-Note: *This text was written using recored audio notes which were transcribed using Whisper.cpp and then improved by various AI models.*
+Note: *This text was written using recorded audio notes, transcribed using Whisper.cpp, and then improved with the help of various AI models.*
