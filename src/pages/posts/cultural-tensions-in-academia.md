@@ -36,7 +36,7 @@ Startups thrive on creativity and innovation, but cultural tensions can impede p
 - [Section 8: The Trade-Off Between Homogeneous and Heterogeneous Culture](#the-trade-off-between-homogeneous-and-heterogeneous-culture)
 - [Section 9: 7 Strategies to Address Cultural Tensions in Startups](#7-strategies-to-address-cultural-tensions-in-startups)
 - [Conclusion: Embracing Diversity for Enhanced Teamwork and Innovation](#conclusion-embracing-diversity-for-enhanced-teamwork-and-innovation)
-- [Summary: Key Takeaway Points](#summary-key-takeaway-points)
+- [Summary: Key Takeaway Points](#key-takeaway-points)
 
 
 ## Introduction:
@@ -183,3 +183,19 @@ In navigating the trade-off between homogenous and heterogeneous cultures, start
    - Managing tensions arising from differences in values and beliefs.
    - Respecting cultural norms and customs while maintaining a unified company culture.
    - Encouraging open discussions and exploring common ground to foster greater understanding.
+
+## List of References:
+1. Moran, R. T., Harris, P. R., & Moran, S. V. (7th Edition). *Managing Cultural Differences: Global Leadership Strategies for the 21st Century.* [Link](https://a.co/d/cXV9tMt)
+
+2. Meyer, E. *The Culture Map*. (2016). [Link](https://a.co/d/ijrVOoj)
+
+3. Sevilla-Bernardo, J., Sanchez-Robles, B., & Herrador-Alcaide, T. C. (2022). *Success Factors of Startups in Research Literature within the Entrepreneurial Ecosystem.* [Link](https://www.mdpi.com/2076-3387/12/3/102)
+
+4. Elia, S., Messeni Petruzzelli, A., & Piscitello, L. (2019). *The impact of cultural diversity on innovation performance of MNC subsidiaries in strategic alliances.* [Link](https://ideas.repec.org/a/eee/jbrese/v98y2019icp204-213.html)
+
+5. Ilyas, I. M., Kammerlander, N., Turturea, R., & van Essen, M. (2023). *When Business Model Innovation Creates Value for Companies: A Meta-Analysis on Institutional Contingencies.* [DOI](https://doi.org/10.1111/joms.12966)
+
+6. Li, Q., Gong, S., & Li, C. (2019). *The impact of team cultural diversity on team innovation.* [Link](https://journal.psych.ac.cn/xlkxjz/EN/10.3724/SP.J.1042.2019.01521)
+
+7. Meyer, E. (2015). *When Culture Doesn't Translate: How to expand abroad without losing your company’s mojo.* [Link](https://hbr.org/2015/10/when-culture-doesnt-translate)
+
