@@ -175,4 +175,6 @@ The book primarily targets **young researchers**, drawing from my extensive **
 
 Remember, whether you aspire to write a book, create engaging articles, or establish a meaningful online presence. With **the right balance of human expertise and AI assistance, your potential is limitless.**
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Last night I wrote a book of 40k words. <br><br>This wasn&#39;t easy as you may think. Even with AI to help. <br><br>A few years ago I was inspired by a podcast with <a href="https://twitter.com/HassanO?ref_src=twsrc%5Etfw">@HassanO</a>. <br><br>I wanted to write a book. <br><br>I knew I had something to say. <br><br>I have spent my summer doing a 30-60 min writing session…</p>&mdash; Nikola Balic (@nibalic) <a href="https://twitter.com/nibalic/status/1679951422698274817?ref_src=twsrc%5Etfw">July 14, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Note: *This text was written using recorded audio notes, transcribed using Whisper.cpp, and then improved with the help of various AI models.*
