@@ -61,6 +61,8 @@ Another important consideration is finding the right balance between direct and 
 
 ## Managing Decision-Making Conflicts
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">According to <a href="https://twitter.com/noamwass?ref_src=twsrc%5Etfw">@noamwass</a>, 65% of startups fail due to co-founder conflict.<br><br>That&#39;s not a typo. 65%!!!!!<br><br>Investing in your co-founder relationship before and after the partnership is formed might be your single best use of time, energy, and money.</p>&mdash; Steve Schlafman (@schlaf) <a href="https://twitter.com/schlaf/status/1352250778208137222?ref_src=twsrc%5Etfw">January 21, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Decision-making processes provide fertile ground for cultural tensions. Different cultures may have distinct approaches to decision-making, such as hierarchical decision-making versus participatory decision-making. Startup companies must manage conflicts that may arise due to these varying approaches.
 
 One way to address these conflicts is by encouraging open dialogue and collaboration. Creating a safe space for team members to voice their perspectives and concerns can help resolve tensions and foster understanding. By involving all stakeholders in the decision-making process, startups can harness their diverse teams' collective knowledge and experiences.
