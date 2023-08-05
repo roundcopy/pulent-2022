@@ -1,20 +1,25 @@
 ---
 title: The Power of Coherence in Writing
-core_topic: false
 slug: coherence-in-writing
-tags: false
-description: Discover how clarity, introspection, and revision can elevate your
-  writing skills to new heights.
-hero: false
-date: 2023-08-06T00:33:04+02:00
+tags:
+  - Writing coherence
+  - Impactful writing
+  - Creative abandon
+  - Reflective revision
+  - Writing process
+description: Learn how to enhance your writing through clarity, reflection, and
+  careful revision.
+hero: /images/aicompanionsontrail.jpeg
+date: 2023-08-06T00:36:55+02:00
 author: Nikola Balić
-layout: ../../layouts/BlogPostLayout.astro
 ---
+
+
 ## TLDR:
 
-Coherence is a fundamental aspect of impactful writing. This article explores the significance of coherence in crafting compelling content and delves into the intriguing meanings behind the phrases "Drunk Words Are Sober Thoughts" and "Write Drunk, Revise Sober." Learn how to enhance your writing through clarity, reflection, and careful revision.
+> Coherence is a fundamental aspect of impactful writing. This article explores the significance of coherence in crafting compelling content and delves into the intriguing meanings behind the phrases "Drunk Words Are Sober Thoughts" and "Write Drunk, Revise Sober." Learn how to enhance your writing through clarity, reflection, and careful revision.
 
-**Table of Contents:**
+## **Table of Contents:**
 
 * Introduction: The quest for coherence
 * Unraveling the Wisdom: "Drunk Words Are Sober Thoughts."
@@ -68,7 +73,7 @@ Cultivating coherence involves embracing clarity in language and the overall org
 
 ---
 
-## **Key Points:**
+**Key Points:**
 
 1. Coherence is essential for crafting effective and impactful writing.
 2. "Drunk Words Are Sober Thoughts" encourages the idea that spontaneous and uninhibited expressions can reveal deeper truths.
