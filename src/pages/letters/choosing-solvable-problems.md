@@ -24,5 +24,5 @@ These small victories will serve as stepping stones, leading you toward more sig
 
 So, my sons, seek out problems that are both solvable and meaningful to you. Embrace the process of learning and problem-solving, and use the skills you acquire to tackle the wicked problems that lie ahead.
 
-With love and excitement for your future,
+With love and excitement for your future,\
 Dad
