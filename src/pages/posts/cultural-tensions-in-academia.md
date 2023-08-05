@@ -25,18 +25,19 @@ layout: ../../layouts/BlogPostLayout.astro
 Startups thrive on creativity and innovation, but cultural tensions can impede progress. This article explores key aspects to consider when dealing with cultural tensions in startup companies, including diversity and inclusion, communication styles, decision-making processes, work-life balance, leadership and management styles, conflict resolution, and values and beliefs. By addressing these areas and promoting a culture of respect and understanding, startup companies can foster a harmonious and productive work environment.
 
 ## Table of Contents:
-- Introduction
-- Section 1: The Importance of Diversity and Inclusion
-- Section 2: Bridging Communication Gaps
-- Section 3: Managing Decision-Making Conflicts
-- Section 4: Addressing Work-Life Balance Expectations
-- Section 5: Balancing Leadership and Management Styles
-- Section 6: Effective Conflict Resolution Strategies
-- Section 7: Respecting Values and Beliefs for a Unified Culture
-- Section 8: The Trade-Off Between Homogeneous and Heterogeneous Culture
-- Section 9: 7 Strategies to Address Cultural Tensions in Startups
-- Conclusion: Embracing Diversity for Enhanced Teamwork and Innovation
-- Summary: Key Points
+- [Introduction](#introduction)
+- [Section 1: The Importance of Diversity and Inclusion](#section-1-the-importance-of-diversity-and-inclusion)
+- [Section 2: Bridging Communication Gaps](#section-2-bridging-communication-gaps)
+- [Section 3: Managing Decision-Making Conflicts](#section-3-managing-decision-making-conflicts)
+- [Section 4: Addressing Work-Life Balance Expectations](#section-4-addressing-work-life-balance-expectations)
+- [Section 5: Balancing Leadership and Management Styles](#section-5-balancing-leadership-and-management-styles)
+- [Section 6: Effective Conflict Resolution Strategies](#section-6-effective-conflict-resolution-strategies)
+- [Section 7: Respecting Values and Beliefs for a Unified Culture](#section-7-respecting-values-and-beliefs-for-a-unified-culture)
+- [Section 8: The Trade-Off Between Homogeneous and Heterogeneous Culture](#section-8-the-trade-off-between-homogeneous-and-heterogeneous-culture)
+- [Section 9: 7 Strategies to Address Cultural Tensions in Startups](#section-9-7-strategies-to-address-cultural-tensions-in-startups)
+- [Conclusion: Embracing Diversity for Enhanced Teamwork and Innovation](#conclusion-embracing-diversity-for-enhanced-teamwork-and-innovation)
+- [Summary: Key Takeaway Points](#summary-key-takeaway-points)
+
 
 ## Introduction:
 
