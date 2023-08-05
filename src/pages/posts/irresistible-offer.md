@@ -60,6 +60,12 @@ Understanding these dimensions amid various circumstances, such as product attri
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The JTBD framework is shared out commonly as a way for product managers to think about strategy.<br><br>It suggests focusing on the &#39;job&#39; to be done to inspire true innovation and deliver value rather than just features.<br><br>Here are some examples explaining the different components👇 <a href="https://t.co/ydIUdu3vYk">pic.twitter.com/ydIUdu3vYk</a></p>&mdash; Parv 🚢 🌊 (@ParvSondhi) <a href="https://twitter.com/ParvSondhi/status/1676630025364275205?ref_src=twsrc%5Etfw">July 5, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+## Milkshake Marketing Insights
+
+Clayton Christensen, a Harvard professor, applied the 'Jobs to be Done' theory to boost a fast-food chain's milkshake sales. He found that customers were buying milkshakes in the morning as a less messy, convenient breakfast for their commute – the 'job' the milkshake was 'hired' for. Recognizing this, the fast-food chain optimized the milkshake to be more satiating and marketed it as an on-the-go breakfast, resulting in a significant sales increase. This story highlights the importance of understanding the unique 'jobs' products do for consumers beyond their basic features.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/sfGtw2C95Ms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Leveraging the Power of Relationships 
 
 In my client's case, I discovered a key element: their clients. This understanding allowed me to identify product strengths that would benefit the end buyer, enhancing our offering. 
