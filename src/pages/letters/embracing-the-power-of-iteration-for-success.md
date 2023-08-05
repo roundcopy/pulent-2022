@@ -9,7 +9,7 @@ tags:
 description: Letter to my sons on the importance of an iterative approach in
   everyday life for continuous improvement and growth. Encouragement to learn
   from experiences, celebrate successes, and persistently move forward.
-date: 2023-08-05T10:27:00+02:00
+date: 2023-08-01T10:27:00+02:00
 author: Nikola Balić
 layout: ../../layouts/LetterLayout.astro
 ---
