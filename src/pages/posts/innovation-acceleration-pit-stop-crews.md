@@ -12,7 +12,7 @@ description: Explore the challenges faced by technology transfer in a transition
   country and the need for innovation acceleration to maximize business
   opportunities.
 hero: /images/pit-stop.jpeg
-date: 2023-08-06T00:00:48+02:00
+date: 2022-06-29T00:00:48+02:00
 author: Nikola Balić
 layout: ../../layouts/BlogPostLayout.astro
 ---
