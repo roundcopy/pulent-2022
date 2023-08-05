@@ -1,6 +1,6 @@
 ---
 title: Embracing the Power of Iteration for Success
-number: "50"
+number: "32"
 slug: itterate-for-success
 tags:
   - Iterative Approach
