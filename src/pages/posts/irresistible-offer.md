@@ -1,33 +1,52 @@
 ---
-title: "How to tailor an irresistible offer"
-author: "Nikola Balić"
-date: "2020-05-11"
-slug: "irresistible-offer"
-description: "Creating a perfect offer is not always simply about function—understanding
-  your customers goes a long way helping you to optimise your offer for the benefit
-  of both sides."
-hero: "/images/jbtd.jpeg"
-tags: ["jbtd","sales"]
-layout: "../../layouts/BlogPostLayout.astro"
+title: Harnessing the Power of Irrationality in Business Negotiations
+slug: irresistible-offer
+tags:
+  - jbtd
+  - sales
+description: Discover how leveraging human irrationality can lead to more
+  effective business negotiations. Explore a real-world example of how
+  understanding buyers can help create compelling offers.
+hero: /images/jbtd.jpeg
+date: 2020-05-11
+author: Nikola Balić
+layout: ../../layouts/BlogPostLayout.astro
 ---
+## TLDR: 
+Irrationality is not always a drawback. In business negotiations, understanding and leveraging our buyers' irrationality can lead to successful outcomes. The key lies in crafting compelling offers that cater to the buyer's unique needs and desires.
 
-Humans are mostly not rational. We are born irrational and with time are trained to be sensible, to build our mental models preparing ourselves for future challenges. We are even considered it offensive when someone calls us irrational. But despite this, I would argue that precisely this irrationality is making us interesting while creating negotiation opportunities.
+## TOC:
+1. Embracing the Irrational.
+2. Case Study: The Counter-Intuitive Approach.
+3. Understanding the Dynamics.
+4. Leveraging the Power of Relationships.
+5. The Power of Asymmetry.
 
-So why are we always creating offers with mathematical precision? Does it even make sense to invest time in designing an offer without spending at least the same amount of time in understanding our buyer?
+Humans are often mistakenly considered rational beings. From birth, we undergo training to make sense of our world, developing mental models that prepare us for future challenges. Yet, despite our best efforts, much of our thinking remains firmly rooted in the realm of the irrational. This article will explore the potential advantages of acknowledging and utilizing this irrationality in business negotiations.
 
-Could this kind of pricing model be built with buyers irrationality counted in, and could we even develop a system for creating such models?
+## Embracing the Irrational 
 
-I had an opportunity to approach a potential new client in the name of a company that I advised at that time. The usual practice was to provide the approached lead with a price list and offer them a fixed percentage discount which would increase with the endurance of the relationship. This was typical for the industry, and both sides expected such interaction negotiating on the discount percentage and driving the price low as it goes. Negotiations were done face to face with intermittent phone calls. We could have been selling nails or parachutes it wouldn't make the difference.
+Many of us bristle at the suggestion of irrationality. We prize logical thinking and precision, particularly in the realm of business. But what if this irrationality, often seen as a flaw, could be harnessed for our benefit? 
 
-I needed to understand the dynamics and all the peculiarities, including the strengths and weaknesses of both sides. I drafted a small to-do list:
+This brings us to the practice of creating business offers. We often apply mathematical precision when crafting these proposals but seldom invest equal time in understanding our buyer's mindset. Can a pricing model be constructed that factors in the buyer's irrationality? Could we develop a system for creating such models?
 
-1. Discover everything about the product.
-2. Understand the current pricing strategy.
-3. Deconstruct current offer strategy.
-4. Find out what the competition was doing.
-5. Identify the job-to-be-done for the client.
+## Case Study: The Counter-Intuitive Approach 
 
-Honestly, there is a shortcut. You could jump straight to number 5. and then work from there.
+To explore this concept more concretely, let's consider a real-world example. In a previous advisory role, I had the opportunity to engage a potential new client.
+
+Typically, this process involves presenting the potential client with a price list and a fixed discount that could increase over time. This approach was standard within the industry, and the face-to-face or over-the-phone negotiations centered on bargaining for the discount percentage. The product's nature mattered little; whether we sold nails or parachutes, the negotiation process remained the same.
+
+## Understanding the Dynamics 
+
+I first needed to understand the dynamics involved in developing an effective negotiation strategy. This understanding revolved around a series of tasks:
+
+1. Learn about the product.
+2. Grasp the current pricing strategy.
+3. Deconstruct the current offer strategy.
+4. Understand the competition's strategy.
+5. Identify the client's Job to be done.
+
+Interestingly, you could shortcut this process by starting with the fifth task.
 
 > "A Job to be Done is the process a consumer goes through whenever she aims to change her existing life-situation into a preferred one, but cannot because there are constraints that stop her.", [jbtd.info](https://jtbd.info/2-what-is-jobs-to-be-done-jtbd-796b82081cca)
 
@@ -37,14 +56,26 @@ As the father of the concept, Clayton Christensen wrote:
 
 > Jobs are never simply about function—they have powerful social and emotional dimensions.
 
-Recognising those "exotic" dimensions in the forest of circumstances such as product attributes, new technologies or trends will provide you with ultimate leverage.
+Understanding these dimensions amid various circumstances, such as product attributes, new technologies, and trends, can provide significant leverage.
 
-One typical circumstance is that your client has clients, and knowing them could be the first key. Based on this insight, you could go through the list of product strengths and find those that would trickle down to the end buyer—building your offer on such advantages. If this relationship is vital for your client, they will value such an approach.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The JTBD framework is shared out commonly as a way for product managers to think about strategy.<br><br>It suggests focusing on the &#39;job&#39; to be done to inspire true innovation and deliver value rather than just features.<br><br>Here are some examples explaining the different components👇 <a href="https://t.co/ydIUdu3vYk">pic.twitter.com/ydIUdu3vYk</a></p>&mdash; Parv 🚢 🌊 (@ParvSondhi) <a href="https://twitter.com/ParvSondhi/status/1676630025364275205?ref_src=twsrc%5Etfw">July 5, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-In the case mentioned above, I had to dig deeper as it wasn't a straightforward answer. The relationship between my client and their clients was essential, but product strengths were low on the priority list. It was a simple case of vanity. My client just had to have something that would make them different, that would make them look good, even if sacrificing optimal sales. Obviously, they were interested in selling, but in their mind, they already had high sales, and now it was their time to shine.
+## Leveraging the Power of Relationships 
 
-With this realisation, I proceeded to design an ideal offer, one which would be a win-win case to maximise the value for both sides. The value perception, in this case, was asymmetric. For our side value was money in the bank, and for the other side it was good looks. The client which I advised made a killer, never before seen, margin. Based on the premise that their client valued something that they took for granted. They valued it more than standard industry volume discounts and whatnot.
+In my client's case, I discovered a key element: their clients. This understanding allowed me to identify product strengths that would benefit the end buyer, enhancing our offering. 
 
-We sold them a bespoke product with their name printed on it. We made them an irresistible offer.
+Not all cases are as straightforward, though. In some instances, the relationship between my client and their clients was essential, but the product's strengths were not the primary concern. In these cases, the client sought to distinguish their brand and appear more attractive, even sacrificing optimal sales. 
 
-This change cost my client peanuts while in return, their client got immense emotional value. Incorporating this into the pricing model would allow repeatability and consistent value capture.
+Understanding these needs, I designed an offer that satisfied both parties. For us, the value lay in financial gain, while for the client, it was about image enhancement. The outcome was a bespoke product that flaunted their brand name, fulfilling their emotional needs while costing us little.
+
+## The Power of Asymmetry 
+
+This experience showcases the power of asymmetry in value perception. We could replicate this success by incorporating these insights into our pricing model, consistently capturing value. 
+
+In conclusion, acknowledging and leveraging irrationality can open new avenues for value creation in business negotiations. By taking the time to understand our clients beyond the veil of rationality, we can design compelling offers that meet their unique needs and desires.
+
+---
+**Key Points:** 
+- Human irrationality can be harnessed for effective business negotiations.
+- Understanding buyers and their unique needs is crucial for crafting compelling offers.
+- Leveraging asymmetry in value perception can lead to successful business outcomes.
