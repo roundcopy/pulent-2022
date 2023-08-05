@@ -57,17 +57,19 @@ Effective communication is essential for cohesive teamwork, but it can be challe
 
 To bridge these communication gaps, it's crucial to address language barriers directly. Providing language training or translation resources can help improve understanding and reduce miscommunication. Additionally, encouraging team members to ask questions and seek clarification can foster a culture of open communication.
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Running a startup is 99% writing:<br>- Emails<br>- Blog Posts<br>- Marketing Copy<br>- Investor Updates<br>- Code<br>- Team Communication<br>- Goals<br>- Plans<br>- Documentation</p>&mdash; Roshan Patel (@roshanpateI) <a href="https://twitter.com/roshanpateI/status/1445064411765346309?ref_src=twsrc%5Etfw">October 4, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Another important consideration is finding the right balance between direct and indirect communication styles. Some cultures value directness and assertiveness, while others prefer a more indirect and diplomatic approach. Recognizing and understanding these differences can facilitate effective communication and minimize tensions.
 
 ## Managing Decision-Making Conflicts
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">According to <a href="https://twitter.com/noamwass?ref_src=twsrc%5Etfw">@noamwass</a>, 65% of startups fail due to co-founder conflict.<br><br>That&#39;s not a typo. 65%!!!!!<br><br>Investing in your co-founder relationship before and after the partnership is formed might be your single best use of time, energy, and money.</p>&mdash; Steve Schlafman (@schlaf) <a href="https://twitter.com/schlaf/status/1352250778208137222?ref_src=twsrc%5Etfw">January 21, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Decision-making processes provide fertile ground for cultural tensions. Different cultures may have distinct approaches to decision-making, such as hierarchical decision-making versus participatory decision-making. Startup companies must manage conflicts that may arise due to these varying approaches.
 
 One way to address these conflicts is by encouraging open dialogue and collaboration. Creating a safe space for team members to voice their perspectives and concerns can help resolve tensions and foster understanding. By involving all stakeholders in the decision-making process, startups can harness their diverse teams' collective knowledge and experiences.
 
 Overcoming hierarchy-related tensions is another critical aspect of managing decision-making conflicts. In some cultures, individuals are accustomed to respecting authority or deferring to senior members. Such cultural norms can clash with the egalitarian nature of startups. Companies must create a culture that values input from all team members, regardless of their position or tenure.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">According to <a href="https://twitter.com/noamwass?ref_src=twsrc%5Etfw">@noamwass</a>, 65% of startups fail due to co-founder conflict.<br><br>That&#39;s not a typo. 65%!!!!!<br><br>Investing in your co-founder relationship before and after the partnership is formed might be your single best use of time, energy, and money.</p>&mdash; Steve Schlafman (@schlaf) <a href="https://twitter.com/schlaf/status/1352250778208137222?ref_src=twsrc%5Etfw">January 21, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Addressing Work-Life Balance Expectations
 
