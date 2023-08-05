@@ -9,7 +9,7 @@ tags:
   - Writing process
 description: Learn how to enhance your writing through clarity, reflection, and
   careful revision.
-hero: /images/aicompanionsontrail.jpeg
+hero: /images/coherence.jpeg
 date: 2023-08-06T00:36:55+02:00
 author: Nikola Balić
 ---
