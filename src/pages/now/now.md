@@ -1,6 +1,6 @@
 ---
 location: "Split, Croatia"
-updated: "August 7, 2023"
+updated: "August 7th, 2023"
 ---
 
 ## **What rabbit hole I am currently in?**
