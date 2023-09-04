@@ -6,6 +6,9 @@ tags:
   - innovation
   - creativity
   - value
+description: Innovation is a delicate balance between unrestrained creativity
+  and pragmatic value creation, both are necessary to create a meaningful
+  impact.
 hero: /images/drafts_09.jpg
 date: 2023-09-04T09:09:59+02:00
 author: Nikola Balić
