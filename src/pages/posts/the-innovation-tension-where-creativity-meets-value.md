@@ -15,7 +15,8 @@ Innovation thrives in the dynamic tension between unhinged creativity and pragma
 
 After over a decade of working in technology transfer at a university, I've learned that innovation is messy. It's rarely a linear path from idea to impact. False starts, dead ends, and surprises are guaranteed.
 
-Over the years, I've seen "innovation" become a buzzword, often misused and misunderstood. While it's true that innovation is a key driver of progress, it's not just a magic switch you can flip on.
+Over the years, I've seen "innovation" become a buzzword, often misused and misunderstood. While it's true that innovation is a key driver of progress, it's not just a magic switch you can flip.
+
 ## The Unpredictable Nature of Innovation
 
 Innovation is unpredictable. We can't simply will a creative idea into a world-changing product. Serendipity, timing, and luck play huge roles. Oftentimes, success depends on forces beyond our control converging at the right moment.
@@ -89,8 +90,8 @@ Here are a few strategies that can help:
 
 Innovation – the perfect tension between unhinged creativity and pure value creation – is a complex but rewarding pursuit. Understanding and navigating this dynamic can unlock immense potential, driving progress and transformation.
 
-Innovation lives in this dynamic tension. It thrives when creativity and value creation dance in harmony, complementing and tempering each other. This is the mindset I aim to promote based on my experience. Innovation isn't a light switch - it's a dance. Understanding its nuances allows us to guide and harness it to drive meaningful change.
+Innovation lives in this dynamic tension. It thrives when creativity and value creation dance in harmony, complementing and tempering each other. Innovation isn't a light switch - it's a dance. Understanding its nuances allows us to guide and harness it to drive meaningful change.
 
-Innovation is most impactful when it balances unconstrained creativity with pragmatic value creation. By cultivating a culture of imagination and remaining connected to real-world needs, we give rise to inventive and useful ideas. We can shape novel concepts into valuable solutions through rapid prototyping and refinement guided by audience feedback. Innovation thrives in the dynamic tension between revolutionary thinking and purposeful execution. With practice, we can learn to walk this tightrope, avoid falling into extremes, and deliver innovations that don't just impress but positively impact people's lives. 
+By cultivating a culture of imagination and remaining connected to real-world needs, we give rise to inventive and useful ideas. We can shape novel concepts into valuable solutions through rapid prototyping and refinement guided by audience feedback. Innovation thrives in the dynamic tension between revolutionary thinking and purposeful execution. With practice, we can learn to walk this tightrope, avoid falling into extremes, and deliver innovations that don't just impress but positively impact people's lives. 
 
-The world awaits, so let's keep dancing.
+The world awaits, so let's keep dancing on the tightrope.
