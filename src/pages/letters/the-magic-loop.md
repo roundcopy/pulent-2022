@@ -3,7 +3,7 @@ title: "The Magic Loop: Dancing Towards Success"
 number: "45"
 slug: "the-magic-loop"
 tags: [success, dance, opportunities]
-description: ""Discover the secret dance move to success with the magic loop. Shine in your current job, ask how you can help, and embrace new challenges. Dance your way to success!""
+description: "Discover the secret dance move to success with the magic loop. Shine in your current job, ask how you can help, and embrace new challenges. Dance your way to success!"
 date: "2023-11-05T22:35:14+01:00"
 author: "Nikola Balić"
 layout: "../../layouts/LetterLayout.astro"
