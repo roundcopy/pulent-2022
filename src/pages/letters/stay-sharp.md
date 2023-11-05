@@ -2,7 +2,7 @@
 title: "Stay Sharp: Unveiling the Ninja of Success"
 number: "43"
 slug: "stay-sharp"
-tags: ["success, awareness, opportunities"]
+tags: [success, awareness, opportunities]
 description: "Stay aware, keep your senses sharp. Success is like a ninja, hiding in unexpected places. Opportunities are waiting, be alert. Stay sharp, my sons."
 date: "2023-11-05T22:19:48+01:00"
 author: "Nikola Balić"
