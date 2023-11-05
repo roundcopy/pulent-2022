@@ -2,9 +2,7 @@
 title: "Embrace the Unknown: Nurturing Wild Ideas"
 number: "41"
 slug: "embrace-the-unknown"
-tags: ["ideas, creativity, innovation"
-"risk-taking, unconventional thinking, out-of-the-box ideas"
-"nurturing ideas, embracing complexity, changing the world"]
+tags: ["ideas, creativity, innovation"]
 description: "Don't dismiss crazy, risky, or complex ideas. They may seem wild, but they can change the world. Dive into the unknown and nurture them like a peculiar dish at a new restaurant."
 date: "2023-11-05T22:18:49+01:00"
 author: "Nikola Balić"
