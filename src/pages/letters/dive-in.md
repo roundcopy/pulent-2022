@@ -3,7 +3,7 @@ title: "Dive In: The Art of Being All In"
 number: "42"
 slug: "dive-in"
 tags: [commit fully, dive in, secret weapon]
-description: "Commit fully, be present, navigate with purpose. Dad's advice to his sons on the power of being "all in." A letter filled with wisdom and love."
+description: "Commit fully, be present, navigate with purpose. Dad's advice to his sons on the power of being all in. A letter filled with wisdom and love."
 date: "2023-11-05T22:19:35+01:00"
 author: "Nikola Balić"
 layout: "../../layouts/LetterLayout.astro"
