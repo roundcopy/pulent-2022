@@ -1,5 +1,5 @@
 ---
-title: "Dive In: The Art of Being "All In""
+title: "Dive In: The Art of Being All In"
 number: "42"
 slug: "dive-in"
 tags: [commit fully, dive in, secret weapon]
