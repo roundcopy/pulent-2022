@@ -2,7 +2,7 @@
 title: "The Power of Curiosity: Embracing a Lifelong Journey of Learning"
 number: "38"
 slug: "the-power-of-curiosity"
-tags: "curiosity, joy of learning, knowledge"
+tags: [curiosity, joy of learning, knowledge]
 description: "Embrace curiosity and the joy of learning to shape your future. Expand your horizons through books, podcasts, and diverse conversations. May your love for learning light your path to greatness."
 date: "2023-11-05T21:35:21+01:00"
 author: "Nikola Balić"
