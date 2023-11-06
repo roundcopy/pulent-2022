@@ -1,14 +1,19 @@
 ---
 title: "Stay Sharp: Unveiling the Ninja of Success"
 number: "43"
-slug: "stay-sharp"
-tags: [success, awareness, opportunities]
-description: "Stay aware, keep your senses sharp. Success is like a ninja, hiding in unexpected places. Opportunities are waiting, be alert. Stay sharp, my sons."
-date: "2023-11-05T22:19:48+01:00"
-author: "Nikola Balić"
-layout: "../../layouts/LetterLayout.astro"
+slug: stay-sharp
+tags:
+  - success
+  - awareness
+  - opportunities
+description: Stay aware, keep your senses sharp. Success is like a ninja, hiding
+  in unexpected places. Opportunities are waiting, be alert. Stay sharp, my
+  sons.
+date: 2023-11-05T22:19:48+01:00
+author: Nikola Balić
+layout: ../../layouts/LetterLayout.astro
 ---
-Hey Filip, hey Dominik,
+Hey boys,
 
 You know, success is a bit like a ninja. It's 80% awareness. 
 
