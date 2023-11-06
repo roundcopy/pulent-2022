@@ -1,14 +1,19 @@
 ---
 title: "Life's Grand Orchestra: The Art of Selling"
 number: "44"
-slug: "life-s-grand-orchestra"
-tags: [sales, dreams, passions]
-description: "Life is a marketplace of dreams and possibilities. Sell your ideas, passions, and dreams. In the bazaar of life, it's not about having, it's about selling."
-date: "2023-11-05T22:29:06+01:00"
-author: "Nikola Balić"
-layout: "../../layouts/LetterLayout.astro"
+slug: life-s-grand-orchestra
+tags:
+  - sales
+  - dreams
+  - passions
+description: Life is a marketplace of dreams and possibilities. Sell your ideas,
+  passions, and dreams. In the bazaar of life, it's not about having, it's about
+  selling.
+date: 2023-11-05T22:29:06+01:00
+author: Nikola Balić
+layout: ../../layouts/LetterLayout.astro
 ---
-Dear Filip and Dominik,
+Dear sons,
 
 Life, in its grand and chaotic orchestra, is essentially all about sales.
 
