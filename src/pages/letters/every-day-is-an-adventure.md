@@ -2,7 +2,7 @@
 title: "Every Day is an Adventure"
 number: "47"
 slug: "every-day-is-an-adventure"
-tags: ["memories, milestones, living in the moment"]
+tags: [memories, milestones, living in the moment]
 description: "Create lasting memories every day with love and adventure. Embrace life's milestones and cherish the journey. Make every day your birthday in Copenhagen and beyond."
 date: "2023-11-06T06:25:12+01:00"
 author: "Nikola Balić"
