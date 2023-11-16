@@ -2,8 +2,8 @@
 title: "The Power of Constructive Criticism"
 number: "57"
 slug: "the-power-of-constructive-criticism"
-tags: [criticism, constructive intent, critique]
-description: ""Boomerang of Criticism: Reflect on intent before critiquing. Tread with care and respect. Stay kind and considerate. To critique or not to critique, that's the question.""
+tags: [criticism, intent, critique]
+description: "Boomerang of Criticism: Reflect on intent before critiquing. Tread with care and respect. Stay kind and considerate. To critique or not to critique, that's the question."
 date: "2023-11-16T20:21:30+01:00"
 author: "Nikola Balić"
 layout: "../../layouts/LetterLayout.astro"
