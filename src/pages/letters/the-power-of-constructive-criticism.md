@@ -1,12 +1,17 @@
 ---
-title: "The Power of Constructive Criticism"
+title: The Power of Constructive Criticism
 number: "57"
-slug: "the-power-of-constructive-criticism"
-tags: [criticism, intent, critique]
-description: "Boomerang of Criticism: Reflect on intent before critiquing. Tread with care and respect. Stay kind and considerate. To critique or not to critique, that's the question."
-date: "2023-11-16T20:21:30+01:00"
-author: "Nikola Balić"
-layout: "../../layouts/LetterLayout.astro"
+slug: the-power-of-constructive-criticism
+tags:
+  - criticism
+  - intent
+  - critique
+description: "Boomerang of Criticism: Reflect on intent before critiquing. Tread
+  with care and respect. Stay kind and considerate. To critique or not to
+  critique, that's the question."
+date: 2023-11-16T20:21:30+01:00
+author: Nikola Balić
+layout: ../../layouts/LetterLayout.astro
 ---
 My dear sons,
 
@@ -20,7 +25,7 @@ Someone might be treading water, their spirit buoyed by the very work you're abo
 
 So, tread with care. Throw the boomerang of criticism wisely and with respect for the effort that was put into the work.
 
-To critique or not to critique, remember that’s the question.
+Be constructive, not destructive. That's the key.
 
 Stay kind and considerate, 
 Dad
