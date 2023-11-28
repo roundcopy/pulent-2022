@@ -1,5 +1,5 @@
 ---
-title: "The Power of Focus: Embrace the Discipline, Find the Significant "Yes""
+title: "The Power of Focus"
 number: "59"
 slug: "the-power-of-focus"
 tags: [focus, discipline, commitment]
