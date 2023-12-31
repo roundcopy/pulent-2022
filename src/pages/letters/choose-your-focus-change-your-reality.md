@@ -1,12 +1,16 @@
 ---
-title: "**Choose Your Focus, Change Your Reality**"
+title: Choose Your Focus, Change Your Reality
 number: "67"
-slug: "choose-your-focus-change-your-reality"
-tags: [focus, reality, perspective]
-description: "Stay Focused | Choose Wisely | Manifest Your Reality | Enriching Perspectives | Change the Channel | Dad's Advice"
-date: "2023-12-22T18:51:39+01:00"
-author: "Nikola Balić"
-layout: "../../layouts/LetterLayout.astro"
+slug: choose-your-focus-change-your-reality
+tags:
+  - focus
+  - reality
+  - perspective
+description: Stay Focused | Choose Wisely | Manifest Your Reality | Enriching
+  Perspectives | Change the Channel | Dad's Advice
+date: 2023-12-22T18:51:39+01:00
+author: Nikola Balić
+layout: ../../layouts/LetterLayout.astro
 ---
 My dear sons,
 
