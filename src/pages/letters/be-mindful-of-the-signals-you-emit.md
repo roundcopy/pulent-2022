@@ -1,13 +1,15 @@
 ---
-title: "Be mindful of the signals you emit"
+title: Be mindful of the signals you emit
 number: "75"
-slug: "be-mindful-of-the-signals"
-tags: [signals, cards]
-description: "Life is much like a game of cards. Both involve playing with the
-  hand you’re dealt and watching the signals others emit."
-date: "2024-01-31T20:52:31+01:00"
-author: "Nikola Balić"
-layout: "../../layouts/LetterLayout.astro"
+slug: be-mindful-of-the-signals
+tags:
+  - signals
+  - cards
+description: Life is much like a game of cards. Both involve playing with the
+  hand you’re dealt and watching the signals others emit.
+date: 2024-01-30T20:52:31+01:00
+author: Nikola Balić
+layout: ../../layouts/LetterLayout.astro
 ---
 My dear sons,
 
