@@ -3,7 +3,7 @@ title: "Championing Simplicity: The Most Sophisticated Move"
 number: "81"
 slug: "championing-simplicity"
 tags: [simplicity, clarity, authenticity]
-description: ""Champion simplicity and embrace uncluttered joy. Foster deep connections through simplicity in relationships. Discover the true essence of things.""
+description: "Champion simplicity and embrace uncluttered joy. Foster deep connections through simplicity in relationships. Discover the true essence of things."
 date: "2024-02-02T17:32:52+01:00"
 author: "Nikola Balić"
 layout: "../../layouts/LetterLayout.astro"
@@ -14,7 +14,7 @@ My dear sons,
 
 Remember, complexity can often be a veil for confusion, while simplicity reveals the essence of things. 
 
-Strive to convey your thoughts simply, for clarity is the true testament of understanding. 
+Strive to convey your thoughts for clarity. That is a true testament of understanding. 
 
 Simplicity in your actions can lead to a life of uncluttered joy and peace. 
 
