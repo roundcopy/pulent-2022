@@ -1,12 +1,17 @@
 ---
 title: "The Art of Wealth: Becoming a Master Chef in Life"
-number: "82"
-slug: "the-art-of-wealth"
-tags: [business, wealth, life]
-description: "Become a master chef in the kitchen of life. Learn the art and science of business. Serve society's hidden desires. That's where the real wealth lies."
-date: "2024-02-02T21:42:35+01:00"
-author: "Nikola Balić"
-layout: "../../layouts/LetterLayout.astro"
+number: "81"
+slug: the-art-of-wealth
+tags:
+  - business
+  - wealth
+  - life
+description: Become a master chef in the kitchen of life. Learn the art and
+  science of business. Serve society's hidden desires. That's where the real
+  wealth lies.
+date: 2024-02-02T21:42:35+01:00
+author: Nikola Balić
+layout: ../../layouts/LetterLayout.astro
 ---
 My dear sons,
 
