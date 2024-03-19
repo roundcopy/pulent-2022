@@ -1,5 +1,5 @@
 ---
-title: ""Live in the Moment: Epic Saga of Life""
+title: "Live in the Moment: Epic Saga of Life"
 number: "84"
 slug: "live-in-the-moment"
 tags: [LifeLessons, EpicSagas, LiveInTheMoment]
