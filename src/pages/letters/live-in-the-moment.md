@@ -1,6 +1,6 @@
 ---
 title: "Live in the Moment: Epic Saga of Life"
-number: "84"
+number: "83"
 slug: "live-in-the-moment"
 tags: [LifeLessons, EpicSagas, LiveInTheMoment]
 description: "Think in years, work in days, live in the moment. Embrace the epic sagas of life with daily dedication. Cherish the present for it is the essence of your narrative."
