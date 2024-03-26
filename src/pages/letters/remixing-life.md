@@ -1,5 +1,5 @@
 ---
-title: "**"Remixing Life: Embrace Your Unique Rhythm"**"
+title: "Remixing Life: Embrace Your Unique Rhythm"
 number: "84"
 slug: "remixing-life"
 tags: [Creativity, Reinvention, Unique rhythm]
