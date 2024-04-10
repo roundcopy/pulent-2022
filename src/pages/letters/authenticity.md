@@ -1,5 +1,5 @@
 ---
-title: "**Authenticity: The Essence of Cool**"
+title: "Authenticity: The Essence of Cool"
 number: "85"
 slug: "authenticity"
 tags: [Authenticity, Be Yourself, Cool]
