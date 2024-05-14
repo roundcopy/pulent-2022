@@ -3,7 +3,7 @@ title: "Mastery Through Relentless Practice"
 number: "87"
 slug: "mastery-through-relentless-practice"
 tags: [Practice, Dedication, Mastery]
-description: "Practice dedication and mastery with focused effort. Persevere through repetition for excellence. Choose your "kick" and achieve greatness."
+description: "Practice dedication and mastery with focused effort. Persevere through repetition for excellence. Choose your kick and achieve greatness."
 date: "2024-05-14T13:08:35+02:00"
 author: "Nikola Balić"
 layout: "../../layouts/LetterLayout.astro"
