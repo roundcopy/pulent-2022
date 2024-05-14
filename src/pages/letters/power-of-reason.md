@@ -1,5 +1,5 @@
 ---
-title: ""Power of Reason: A Letter from Dad""
+title: "Power of Reason: A Letter from Dad"
 number: "86"
 slug: "power-of-reason"
 tags: [Compass, Reason, Logic]
