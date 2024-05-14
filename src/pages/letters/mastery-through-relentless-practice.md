@@ -8,7 +8,6 @@ date: "2024-05-14T13:08:35+02:00"
 author: "Nikola Balić"
 layout: "../../layouts/LetterLayout.astro"
 ---
-
 My dear sons,
 
 Bruce Lee famously said he fears not the person who practices 10,000 kicks once, but the one who practices one kick 10,000 times.
